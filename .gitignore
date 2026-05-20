@@ -1,0 +1,19 @@
+# Local environment variables
+.env
+api_key.env
+
+# Virtual environment directories
+venv/
+.venv/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
