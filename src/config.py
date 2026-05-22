@@ -1,21 +1,23 @@
 import os
 from dotenv import load_dotenv
 
-# Preferir variables de entorno; si no existen, buscar un archivo `api_key.env` en
-# la raíz del proyecto (fuera de `src/`) que está ignorado por git.
-root_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
-dotenv_path = os.path.join(root_dir, ".env")
+# Buscar archivo .env en la raíz del proyecto
+root = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+dotenv_path = os.path.join(root, ".env")
 load_dotenv(dotenv_path)
 
-SEMANTIC_SCOLAR_API_KEY = os.getenv("SEMANTIC_SCOLAR_API_KEY")
+SEMANTIC_SCHOLAR_API_KEY = os.getenv("SEMANTIC_SCHOLAR_API_KEY")
 
-if not SEMANTIC_SCOLAR_API_KEY:
-    raise ValueError("La clave de API de Semantic Scholar no está configurada. Por favor, establece SEMANTIC_SCOLAR_API_KEY en tu entorno o en api_key.env en la raíz del proyecto.")
+if not SEMANTIC_SCHOLAR_API_KEY:
+    raise ValueError(
+        "La clave de API de Semantic Scholar no está configurada. "
+        "Por favor, establece SEMANTIC_SCHOLAR_API_KEY en tu entorno "
+        "o en un archivo .env en la raíz del proyecto."
+    )
 
-HEADERS = {"x-api-key": SEMANTIC_SCOLAR_API_KEY}
-
-# Limitar número de autores extraídos (por defecto 200)
-MAX_AUTHORS = 200
+# Encabezados para la API
+HEADERS = {"x-api-key": SEMANTIC_SCHOLAR_API_KEY}
 
 API_URL = "https://api.semanticscholar.org/graph/v1/paper/search"
+
 DATA_DIR = "data"

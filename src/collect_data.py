@@ -1,12 +1,11 @@
 import sys
 import os
 sys.path.insert(0, os.path.dirname(__file__))
-
 import time
 import requests
 import pandas as pd
 
-from config import HEADERS, API_URL, DATA_DIR, MAX_AUTHORS
+from config import HEADERS, API_URL, DATA_DIR
 
 #Archivos y constantes para el proyecto
 RAW_PAPER_FILE = os.path.join(DATA_DIR, "raw_papers.csv")
@@ -18,8 +17,7 @@ QUERIES = [
     "artificial intelligence",
     "machine learning",
     "deep learning",
-    "neural networks",
-    "large language models"
+    "neural networks"
 ]
 
 def create_data_dir():
@@ -102,32 +100,27 @@ def extract_authors(papers):
             author_id = author.get("authorId")
             name = author.get("name")
             if author_id and name:
-                authors.append({"authorID": author_id, "name": name})
+                authors.append({"authorId": author_id, "name": name})
     df_authors = pd.DataFrame(authors)
     if not df_authors.empty:
-        df_authors = df_authors.drop_duplicates(subset=["authorID"])
+        df_authors = df_authors.drop_duplicates(subset=["authorId"])
     # Limitar el número de autores guardados para evitar conjuntos demasiado grandes
-    if not df_authors.empty and len(df_authors) > MAX_AUTHORS:
-        df_authors = df_authors.head(MAX_AUTHORS)
+    if not df_authors.empty:
+        df_authors = df_authors
     return df_authors
  
 #Función principal que ejecuta todo el proceso de recolección, limpieza y extracción de datos, además de guardar los resultados en archivos CSV para su posterior análisis. Se incluyen mensajes de impresión para monitorear el progreso y la cantidad de datos obtenidos en cada etapa.
 def run_collection():
-    print("Iniciando recolección...")  # <- agrega esto primero
     create_data_dir()
-    print("Directorio creado")
     raw_papers = save_raw_data()
-    print(f"Raw papers: {len(raw_papers)}")
     df_raw = pd.DataFrame(raw_papers)
     df_raw.to_csv(RAW_PAPER_FILE, index=False, encoding="utf-8-sig")
-    print (f"Articulos originales obtenidos: {len(df_raw)}")
     df_cleaned = clean_data (raw_papers)
     df_cleaned.to_csv(PROCESSED_PAPER_FILE, index=False, encoding="utf-8-sig")
     print (f"Articulos limpios obtenidos: {len(df_cleaned)}")
     df_authors = extract_authors(df_cleaned)
     df_authors.to_csv(AUTHORS_FILE, index=False, encoding="utf-8-sig")
     print (f"Autores extraidos: {len(df_authors)}")
-
     print("Recoleccion terminada")
 
 #Función principal que ejecuta el proceso de recolección de datos al ejecutar el script.
