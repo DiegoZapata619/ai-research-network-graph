@@ -1,0 +1,622 @@
+﻿authorId,name,component,component_size
+9221552,J. Ser,1,20
+144833154,R. Confalonieri,1,20
+1704327,Riccardo Guidotti,1,20
+50449165,A. Barbado,1,20
+145337392,D. Molina,1,20
+2091924780,Raja Chatila,1,20
+3030006,S. Tabik,1,20
+1379511786,Adrien Bennetot,1,20
+1402195255,S. Gil-Lopez,1,20
+2098723448,Francisco Herrera,1,20
+1423321194,N. Díaz-Rodríguez,1,20
+2058921025,Natalia Díaz Rodríguez,1,20
+1412328163,Shaker El-Sappagh,1,20
+47495965,Sajid Ali,1,20
+39558258,S. García,1,20
+1379511816,Alejandro Barredo Arrieta,1,20
+2999175,T. Abuhmed,1,20
+2445552,Richard Benjamins,1,20
+2151319597,J. Alonso-Moral,1,20
+2065671060,Khan Muhammad,1,20
+145768607,Melissa Bond,2,4
+1389230375,Olaf Zawacki-Richter,2,4
+11130878,Victoria I. Marín,2,4
+1389230390,Franziska Gouverneur,2,4
+9139705,Amina Adadi,3,2
+50487490,M. Berrada,3,2
+143754359,Varun Chandrasekaran,4,14
+2109308930,Y. Lee,4,14
+121645690,Sébastien Bubeck,4,14
+78846919,Marco Tulio Ribeiro,4,14
+2247662718,Hamid Palangi,4,14
+2064595436,Eric Horvitz,4,14
+23451726,Scott M. Lundberg,4,14
+120962807,John A. Gehrke,4,14
+2397827688,Peter Lee,4,14
+152244300,Yuan-Fang Li,4,14
+144884116,Yi Zhang,4,14
+2268494857,Harsha Nori,4,14
+1783184,Ece Kamar,4,14
+2315830,Ronen Eldan,4,14
+1414886863,A. Al-Jabir,5,9
+35645232,Ginimol Mathew,5,9
+120002745,R. Agha,5,9
+91573015,C. Sohrabi,5,9
+67293110,Ahmed Kerwan,5,9
+2290057522,Rasha Rashid,5,9
+15447189,M. Agha,5,9
+31614073,Maria Nicola,5,9
+2247509061,T. Franchi,5,9
+2003687008,Atheer O. Aldairem,6,13
+2159384173,Sumaya N Almohareb,6,13
+2243412243,Tariq Alqahtani,6,13
+5565754,Khalid Bin saleh,6,13
+12112205,Majed S. Al Yami,6,13
+6458651,Abdulkareem M. Albekairy,6,13
+1716508276,Shuroug A. Alowais,6,13
+4884356,Shmeylan A. Al Harbi,6,13
+2291423525,N. Alsuhebany,6,13
+11708863,H. Badreldin,6,13
+2078203152,Abdulrahman I. Alshaya,6,13
+2243408972,S. Alghamdi,6,13
+144882464,Mohammed A. Alrashed,6,13
+2427076,Tianfan Fu,7,249
+2378027,Bharath Ramsundar,7,249
+3422052,Neil C. Rabinowitz,7,249
+2066201331,Victoria Langston,7,249
+2645384,K. Kavukcuoglu,7,249
+2051681709,Juraj Gottweis,7,249
+143967473,Pushmeet Kohli,7,249
+20048351,Vihan Jain,7,249
+22236100,Sasank Chilamkurthy,7,249
+2108113547,Xiaoqiang Zhang,7,249
+1738536,Jimeng Sun,7,249
+1688882,Yann LeCun,7,249
+48594758,Weihua Hu,7,249
+35210462,Kunal Talwar,7,249
+1686971,T. Graepel,7,249
+3213968,H. Blau,7,249
+40527594,Lukasz Kaiser,7,249
+2217278,Lichan Hong,7,249
+35078078,M. Wicke,7,249
+1680133,S. Jha,7,249
+2065251344,James Bradbury,7,249
+2359205623,Linfeng Zhang,7,249
+2106164,D. Kumaran,7,249
+2047844,Anima Anandkumar,7,249
+115517806,Zahra F H Abad,7,249
+2047009195,Oishi Banerjee,7,249
+49437682,William L. Hamilton,7,249
+2078528337,Ashish Agarwal,7,249
+3296031,T. Shaked,7,249
+1751762,Yoshua Bengio,7,249
+1811529,A. Esteva,7,249
+2266472373,Anil Palepu,7,249
+1508890387,Rohan Anil,7,249
+2594093,S. Jegelka,7,249
+2827616,Quoc V. Le,7,249
+1689108,O. Vinyals,7,249
+2364487,Alexandre Robicquet,7,249
+48738717,C. Citro,7,249
+2118439896,Kaifeng Chen,7,249
+1942300,M. Kudlur,7,249
+144231976,A. Swami,7,249
+2213433382,A. Karthikesalingam,7,249
+47568983,George van den Driessche,7,249
+2159642226,Le Song,7,249
+2064995505,G. Anderson,7,249
+2228923747,Max Welling,7,249
+2446263,M. DePristo,7,249
+2268759673,Karan Singhal,7,249
+2064102917,A. Harp,7,249
+2224893214,Mohamed Amin,7,249
+4111313,John Nham,7,249
+47941411,Pete Warden,7,249
+4337102,Julian Schrittwieser,7,249
+2844530,Andrea Tacchetti,7,249
+93584228,Yuanqi Du,7,249
+1780892,S. Ghemawat,7,249
+2269173133,Yong Cheng,7,249
+2084098271,Greg S. Corrado,7,249
+3089272,R. Monga,7,249
+144758045,E. Topol,7,249
+2113829116,Junjie Bai,7,249
+143724694,David Raposo,7,249
+2269148566,Katherine Chou,7,249
+48373216,S. Dieleman,7,249
+46506460,Hanchen Wang,7,249
+1557487144,Michael Moor,7,249
+1975889,Marc Lanctot,7,249
+2073806959,Tushar Chandra,7,249
+2329784607,H. Shah,7,249
+2188778449,Carla P. Gomes,7,249
+145591745,Ilya Mironov,7,249
+9229182,B. Recht,7,249
+2388737,C. Clopath,7,249
+35188630,George E. Dahl,7,249
+3480712,Ryutaro Tanno,7,249
+114250963,Gregory Chanan,7,249
+2228824,Andrei A. Rusu,7,249
+2253681376,Zachary DeVito,7,249
+32131713,G. Corrado,7,249
+1789737,Jonathon Shlens,7,249
+145712106,Volodymyr Kuleshov,7,249
+2039588,Keith Bonawitz,7,249
+49454094,Kexin Huang,7,249
+2268760043,S. Mahdavi,7,249
+3360632,Keyulu Xu,7,249
+2117715807,H. Krumholz,7,249
+145057514,H. B. McMahan,7,249
+2060655766,G. Irving,7,249
+2156641189,Bowen Liu,7,249
+1764249,Joan Lasenby,7,249
+34660073,John Quan,7,249
+3365851,N. Gimelshein,7,249
+3312922,H. Aradhye,7,249
+36942233,Charlie Nash,7,249
+40046694,Hongyu Ren,7,249
+1996134,Razvan Pascanu,7,249
+5055381,A. Ballard,7,249
+2090818,M. Isard,7,249
+2058362,J. Gilmer,7,249
+1473151134,Andreas Köpf,7,249
+2545358,Z. Chen,7,249
+1688276,Daan Wierstra,7,249
+1398105826,Alvaro Sanchez-Gonzalez,7,249
+2269258459,Le Hou,7,249
+2291172852,Albert Webson,7,249
+145824029,David Silver,7,249
+1775622,Moritz Hardt,7,249
+30415265,Dandelion Mané,7,249
+2153575781,Wenhao Gao,7,249
+1885349,Aja Huang,7,249
+4648200,S. Swetter,7,249
+2110264337,Tie-Yan Liu,7,249
+2801204,N. Heess,7,249
+4908509,Ben Kreuter,7,249
+1977806,Adam Lerer,7,249
+2772217,Chris J. Maddison,7,249
+2019153,P. Battaglia,7,249
+1396184193,Andy Chu,7,249
+83539859,Rex Ying,7,249
+3407277,Adam Paszke,7,249
+34505275,Tiago Ramalho,7,249
+3029482,L. Antiga,7,249
+2226493959,D. Marks,7,249
+39793298,Sam Gross,7,249
+7999018,Brett Kuprel,7,249
+2755582,Guillaume Desjardins,7,249
+144223091,Vivek Natarajan,7,249
+34521172,Sarvar Patel,7,249
+2244651851,Tao Tu,7,249
+152599430,Lu Fang,7,249
+2212030,Antonio Marcedone,7,249
+3370429,Zeming Lin,7,249
+144643812,Z. Celik,7,249
+49959210,J. Dean,7,249
+2115854801,Jian Tang,7,249
+145254624,Kelsey R. Allen,7,249
+2052275005,Claire Cui,7,249
+2080690,P. Tucker,7,249
+1865800402,Y. Bengio,7,249
+2367796356,Nicolas Papernot,7,249
+1878835,Daniel Ramage,7,249
+34185195,Karn Seth,7,249
+2542999,T. Lillicrap,7,249
+1751569,Samy Bengio,7,249
+2460849,Ioannis Antonoglou,7,249
+2109059862,Xiaobing Liu,7,249
+47002813,Yujia Li,7,249
+3444569,Petar Velickovic,7,249
+2401609,Dominik Grewe,7,249
+2279022140,Jan Freyberg,7,249
+1702139,J. Leskovec,7,249
+20154699,D. Murray,7,249
+145478807,Mateusz Malinowski,7,249
+1861312,Azalia Mirhoseini,7,249
+46354410,K. Bergen,7,249
+48448318,J. Dean,7,249
+13027820,Connor W. Coley,7,249
+2226485816,Peter Van Katwyk,7,249
+50988143,Pong Eksombatchai,7,249
+2275364713,Krzysztof Maziarz,7,249
+1854385,Çaglar Gülçehre,7,249
+46378362,M. Botvinick,7,249
+2749418,Vedavyas Panneershelvam,7,249
+2152832173,Li Zhang,7,249
+145233583,M. Wattenberg,7,249
+2217861514,Amy Wang,7,249
+2657155,Vincent Vanhoucke,7,249
+8181864,Kieran Milan,7,249
+2064203013,Aaron Segal,7,249
+2269148232,Yossi Matias,7,249
+2059271276,Trevor Killeen,7,249
+10685155,Mike Schaekermann,7,249
+39978391,Yangqing Jia,7,249
+2357599490,C. Olah,7,249
+145139947,M. Devin,7,249
+2052812305,E. Yang,7,249
+2613935,A. Manrai,7,249
+2269148145,Kavita Kulkarni,7,249
+2158860,Jessica B. Hamrick,7,249
+10707709,Martin Raison,7,249
+2108406634,Jianmin Chen,7,249
+2066076307,Jeremiah Harmsen,7,249
+2152198093,Xiaoqiang Zheng,7,249
+120805419,Mingxing Tan,7,249
+2072422622,Vladimir Ivanov,7,249
+1563693999,Shengchao Liu,7,249
+52326632,Christopher Semturs,7,249
+2055632320,Katherine Chou,7,249
+1701686,I. Sutskever,7,249
+153440022,I. Goodfellow,7,249
+2047998,Yuxiao Dong,7,249
+2279021635,Khaled Saab,7,249
+2057642721,Martín Abadi,7,249
+1403239967,Francisco Massa,7,249
+144758007,P. Barham,7,249
+151505981,Chiyuan Zhang,7,249
+2053781980,Vijay Vasudevan,7,249
+2315504,R. Hadsell,7,249
+2279162093,Brenna Li,7,249
+40338695,L. Koc,7,249
+89356020,P. Chandak,7,249
+48860334,Andreea Deac,7,249
+48987704,D. Hassabis,7,249
+3050846,Alban Desmaison,7,249
+2061550,Heng-Tze Cheng,7,249
+40151244,Shekoofeh Azizi,7,249
+1944541,R. Józefowicz,7,249
+2226475487,Shirley Ho,7,249
+32163737,Benoit Steiner,7,249
+2213266,Nenad Tomašev,7,249
+50730596,Zakaria Haque,7,249
+36347083,Andy Davis,7,249
+2117163698,Yuan Yu,7,249
+144927151,M. Schuster,7,249
+144375552,Sherry Moore,7,249
+2066516991,J. Kirkpatrick,7,249
+144061974,P. Mcdaniel,7,249
+2117941801,Ziming Liu,7,249
+2298901106,E. Vedadi,7,249
+35030998,Adam Santoro,7,249
+1754926,Michele Catasta,7,249
+1745899,Chris Dyer,7,249
+40662181,Madeleine Leach,7,249
+144867807,S. Thrun,7,249
+5347246,R. Novoa,7,249
+2107148568,H. F. Song,7,249
+3410500,Matthias Fey,7,249
+2933399,Ruining He,7,249
+144056327,J. Veness,7,249
+37413761,M. Ispir,7,249
+2603033,V. Bapst,7,249
+35099444,A. Guez,7,249
+40348417,Ashish Vaswani,7,249
+1453104568,P. Rajpurkar,7,249
+3133079,V. Zambaldi,7,249
+2127604,Soumith Chintala,7,249
+1765169,F. Viégas,7,249
+1846258,Noam Shazeer,7,249
+41203992,Alykhan Tejani,7,249
+2445241,E. Brevdo,7,249
+37397407,J. Ko,7,249
+2055400243,Wei Chai,7,249
+2269147696,Joelle K. Barral,7,249
+1695689,Geoffrey E. Hinton,7,249
+3369421,J. Levenberg,7,249
+2175946,L. Sifre,7,249
+1398898827,A. Grabska-Barwinska,7,249
+2583391,Nal Kalchbrenner,7,249
+2095762,M. Zitnik,7,249
+1415234363,L. Meunier-FitzHugh,8,35
+50817520,M. Janssen,8,35
+1688149,Nripendra P. Rana,8,35
+1410968693,R. Dwivedi,8,35
+35098701,Vishnupriya Raghavan,8,35
+3446873,Elvira R. Ismagilova,8,35
+2191954,K. Tamilmani,8,35
+1696747,Banita Lal,8,35
+1418648774,Bianca Kronemann,8,35
+66781543,Jak Spencer,8,35
+1724490,Yogesh Kumar Dwivedi,8,35
+144521858,Y. Duan,8,35
+2285182,Tom Crick,8,35
+47033159,S. Misra,8,35
+153278840,J. Singh,8,35
+2168272578,Paul Jones,8,35
+2733956,A. Kar,8,35
+2775338,R. Raman,8,35
+102927759,Annie Tubadji,8,35
+2038468629,S. Sharma,8,35
+26898704,Vassilis Galanos,8,35
+2235927,Crispin R. Coombs,8,35
+2066599148,Laurie Hughes,8,35
+1404797274,K. L. Meunier-FitzHugh,8,35
+2937059,P. Ilavarasan,8,35
+52563419,E. Mogaji,8,35
+41074539,Hatice Kizgin,8,35
+144340154,P. Walton,8,35
+3094343,B. Lucini,8,35
+2575165,R. Medaglia,8,35
+121714298,Aled Eirug,8,35
+2116399602,Michael D. Williams,8,35
+143698898,J. Edwards,8,35
+91018104,G. Aarts,8,35
+2032434,Spyridon Samothrakis,8,35
+119848616,S. A. Vakhabova,9,3
+2335370855,Ana Zizaeva,9,3
+2310506836,Valery V. Kosulin,9,3
+72729174,Rajeev Ronanki,10,2
+2350447013,Andrew Nguyen,10,2
+2193691,N. Bostrom,11,2
+1807005,V. C. Müller,11,2
+2341465150,Yunfang Yu,12,9
+2341320480,Xiaokun Li,12,9
+2257481824,Niu Huang,12,9
+2336957677,Kang Zhang,12,9
+2321665003,Joseph Wu,12,9
+2144996119,Shengyong Yang,12,9
+2341278744,Gen Li,12,9
+2115568943,Yifei Wang,12,9
+2150439478,Xin Yang,12,9
+47978704,Pingping Chen,13,3
+144264986,Zhijian Lin,13,3
+1669767608,Lijia Chen,13,3
+123247135,Whitney Zhang,14,2
+119462164,Shakked Noy,14,2
+51931569,Md Kamruzzaman Sarker,15,2
+1699771,P. Hitzler,15,2
+2332602539,Zhenzhou Zhu,16,6
+2368468789,T. Tran,16,6
+2117194781,Shan Wang,16,6
+2155602966,Fang Wang,16,6
+2264403157,Jingxuan Wang,16,6
+2265219069,Zhao Du,16,6
+150331642,Vikas Hassija,17,10
+2199960729,Amir Hussain,17,10
+2233658018,Atmesh Mahapatra,17,10
+2188228655,Mufti Mahmud,17,10
+5380819,Kaizhu Huang,17,10
+115566972,Indro Spinelli,17,10
+2147282532,Abhinandan Singal,17,10
+1752983,Simone Scardapane,17,10
+73235682,Divyansh Goel,17,10
+3185174,V. Chamola,17,10
+2149373363,Lu Lu,18,7
+118188801,Sifan Wang,18,7
+1720124,G. Karniadakis,18,7
+2145494483,Liu Yang,18,7
+145401977,M. Raissi,18,7
+3410970,P. Perdikaris,18,7
+3439407,I. Kevrekidis,18,7
+2742129,Roland Vollgraf,19,3
+4565995,Kashif Rasul,19,3
+145642373,Han Xiao,19,3
+2775559,Fred Morstatter,20,5
+1782658,Kristina Lerman,20,5
+51884035,N. Saxena,20,5
+143728483,A. Galstyan,20,5
+51997673,Ninareh Mehrabi,20,5
+3351164,Been Kim,21,2
+1388372395,F. Doshi-Velez,21,2
+118242121,Chaitanya Ahuja,22,3
+49933077,Louis-philippe Morency,22,3
+1756344,T. Baltrušaitis,22,3
+1723945,Vitaly Shmatikov,23,4
+3469125,Congzheng Song,23,4
+2520493,R. Shokri,23,4
+34828439,M. Stronati,23,4
+49528584,Hao Wang,24,6
+2183294,W. Woo,24,6
+1739816,D. Yeung,24,6
+3008587,Xingjian Shi,24,6
+145771919,W. Wong,24,6
+2192200,Zhourong Chen,24,6
+36203548,N. Nathani,25,2
+2302607913,Abhishek Singh,25,2
+2067827437,Ron Weiss,26,17
+2081469,J. Vanderplas,26,17
+35243423,M. Perrot,26,17
+27257992,Mathieu Blondel,26,17
+3084321,D. Cournapeau,26,17
+2780213,P. Prettenhofer,26,17
+3025780,G. Varoquaux,26,17
+39571582,Ron J. Weiss,26,17
+144720379,Alexandre Passos,26,17
+2958756,O. Grisel,26,17
+1710398,E. Duchesnay,26,17
+2570016,Fabian Pedregosa,26,17
+2423884,M. Brucher,26,17
+1797840,Alexandre Gramfort,26,17
+52200573,V. Michel,26,17
+1881041,Gilles Louppe,26,17
+8493461,B. Thirion,26,17
+46216076,Bradley C. Boehmke,27,2
+35664117,Brandon M. Greenwell,27,2
+26331346,V. Chernozhukov,28,7
+3646527,W. Newey,28,7
+88741890,Mert Demirer,28,7
+2259683,E. Duflo,28,7
+145607066,J. Robins,28,7
+88741529,D. Chetverikov,28,7
+144613163,Christian Hansen,28,7
+1579855258,O. Rainio,29,3
+5303884,J. Teuho,29,3
+2208742466,R. Klén,29,3
+2924968,Ichsani Wheeler,30,19
+3018223,X. Geng,30,19
+4953836,B. Kempen,30,19
+2146245,S. Mantel,30,19
+30504500,M. Kilibarda,30,19
+2228185935,Shangguan Wei,30,19
+145028966,R. MacMillan,30,19
+32830771,E. Ribeiro,30,19
+1402912902,B. Bauer-Marschallinger,30,19
+2856207,T. Hengl,30,19
+7549589,Jorge Mendes de Jesus,30,19
+49399380,N. Batjes,30,19
+100653750,J. Leenaars,30,19
+3376186,Marvin N. Wright,30,19
+145253407,G. Heuvelink,30,19
+9030720,Aleksandar Blagotić,30,19
+145632581,R. Vargas,30,19
+9583743,Maria Ruiperez González,30,19
+145669099,M. Guevara,30,19
+1694621,Michael I. Jordan,31,2
+2066277988,T. Mitchell,31,2
+1397951928,Klaus Hermann Maier-Hein,32,5
+51011129,Simon A. A. Kohl,32,5
+152800798,Jens Petersen,32,5
+7886986,Fabian Isensee,32,5
+51433108,P. Jaeger,32,5
+1412407676,M. Fadhel,33,10
+1409267833,Ayad Al-dujaili,33,10
+2073994643,A. Humaidi,33,10
+1410016448,O. Al-Shamma,33,10
+144121680,Laith Farhan,33,10
+1412958882,Muthana Al-Amidie,33,10
+2146732191,José I. Santamaría,33,10
+2281247548,Laith Alzubaidi,33,10
+1754598,Jinglan Zhang,33,10
+145013346,Y. Duan,33,10
+143826246,A. Ma̧dry,34,5
+2754804,Dimitris Tsipras,34,5
+152772922,Ludwig Schmidt,34,5
+17775913,Aleksandar Makelov,34,5
+2869958,Adrian Vladu,34,5
+150064574,Connor Shorten,35,2
+1725285,T. Khoshgoftaar,35,2
+47645184,Alex Kendall,36,3
+2681954,Y. Gal,36,3
+1744700,Zoubin Ghahramani,36,3
+4058359,Mackenzie W. Mathis,37,9
+1731199,M. Bethge,37,9
+144440610,V. Murthy,37,9
+41020817,P. Mamidanna,37,9
+39107109,Taiga Abe,37,9
+1891828,Leon A. Gatys,37,9
+1746183,Alexander S. Ecker,37,9
+50283382,Kevin M. Cury,37,9
+2068891,Alexander Mathis,37,9
+145388932,J. Laak,38,9
+145959882,G. Litjens,38,9
+2469581,Mohsen Ghafoorian,38,9
+145101451,A. Setio,38,9
+3049749,Thijs Kooi,38,9
+8038506,B. Ginneken,38,9
+144085811,C. I. Sánchez,38,9
+2954103,B. Bejnordi,38,9
+143613202,F. Ciompi,38,9
+95799904,M. Jung,39,7
+1764912,Prabhat,39,7
+2530948,M. Reichstein,39,7
+1728382,Joachim Denzler,39,7
+116377499,N. Carvalhais,39,7
+1397959153,Gustau Camps-Valls,39,7
+121696502,B. Stevens,39,7
+51132438,Shou-tao Xu,40,3
+1748808,Xindong Wu,40,3
+33698309,Zhong-Qiu Zhao,40,3
+1764301,A. Kamilaris,41,2
+1398263014,F. Prenafeta-Boldú,41,2
+2068146094,David P. Hughes,42,3
+3046313,M. Salathé,42,3
+24178944,S. Mohanty,42,3
+2229081,Marc Coram,43,15
+5791678,J. Mega,43,15
+49506408,L. Peng,43,15
+10777941,Kasumi Widner,43,15
+2035210,R. Raman,43,15
+97874426,Derek J. Wu,43,15
+47191829,D. Webster,43,15
+3423678,R. Kim,43,15
+2057376568,Philip Nelson,43,15
+50484974,Arunachalam Narayanaswamy,43,15
+1811430,Subhashini Venugopalan,43,15
+10688956,T. Madams,43,15
+2924473,Martin C. Stumpe,43,15
+3236386,Varun Gulshan,43,15
+50162175,Jorge A Cuadros,43,15
+47571885,Ping Luo,44,4
+50295995,Xiaoou Tang,44,4
+31843833,Xiaogang Wang,44,4
+2117940996,Ziwei Liu,44,4
+144914140,Hao Su,45,4
+2216377,Kaichun Mo,45,4
+51352814,L. Guibas,45,4
+144329939,C. Qi,45,4
+8273966,Guigang Zhang,46,3
+2343609447,Xingbang Hao,46,3
+2118869556,Shang Ma,46,3
+2235318806,Douglas Nychkatl,47,9
+2420590721,Slephen Ellner,47,9
+2056958855,D. McCaffrey,47,9
+2235319232,A. R. Gallanl,47,9
+2255263286,S. Ellner,47,9
+2229412488,Neural Networks,47,9
+144117841,A. Gallant,47,9
+2235318808,Daniel Mccaftrey,47,9
+2235333426,Douglas Nychkat,47,9
+2612392,M. Andreetto,48,7
+47447630,Tobias Weyand,48,7
+144727050,Andrew G. Howard,48,7
+2595180,Hartwig Adam,48,7
+2108301072,Weijun Wang,48,7
+2741985,Dmitry Kalenichenko,48,7
+2717876,Menglong Zhu,48,7
+144993411,Chuan Guo,49,4
+2117103358,Yu Sun,49,4
+10804137,Geoff Pleiss,49,4
+7446832,Kilian Q. Weinberger,49,4
+100474520,Clément Hongler,50,3
+51034104,Arthur Jacot,50,3
+50810629,Franck Gabriel,50,3
+49110790,Qilong Wang,51,6
+1387668229,Banggu Wu,51,6
+2055691681,Peng Fei Zhu,51,6
+144281199,Q. Hu,51,6
+40426020,P. Li,51,6
+1724520,W. Zuo,51,6
+48934799,Chengqi Zhang,52,6
+2109557884,Zonghan Wu,52,6
+144019071,Philip S. Yu,52,6
+2585415,Shirui Pan,52,6
+2062835,Guodong Long,52,6
+31370754,Fengwen Chen,52,6
+32097919,Terrance Devries,53,2
+144639556,Graham W. Taylor,53,2
+50561595,Jian-xun Zhang,54,4
+2134450193,Xiaosheng Si,54,4
+2111509432,Yong Yu,54,4
+1785654,Changhua Hu,54,4
+1753344,Maosong Sun,55,6
+3443627,Cheng Yang,55,6
+48128428,Jie Zhou,55,6
+49293587,Zhiyuan Liu,55,6
+2621696,Zhengyan Zhang,55,6
+52297757,Ganqu Cui,55,6
+25581960,Jonathan Frankle,56,2
+1701041,Michael Carbin,56,2
+145394689,D. Wagner,57,2
+2365115787,Nicholas Carlini,57,2
+1697397,P. Vandergheynst,58,3
+3422350,Michaël Defferrard,58,3
+2549032,X. Bresson,58,3
+1877512,Fausto Milletarì,59,3
+145587209,N. Navab,59,3
+145774206,Seyed-Ahmad Ahmadi,59,3
+2124888052,Wenjie Yang,60,5
+2109963918,Zewen Li,60,5
+2151548704,Jun Zhou,60,5
+153035664,Fan Liu,60,5
+1612537626,Shouheng Peng,60,5
+152271968,R. Do,61,4
+2459558,K. Togashi,61,4
+3421183,M. Nishio,61,4
+2554362,R. Yamashita,61,4
+143887493,Mohammad Rastegari,62,4
+143787583,Ali Farhadi,62,4
+40497777,J. Redmon,62,4
+2004053,Vicente Ordonez,62,4

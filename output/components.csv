@@ -1,1968 +1,480 @@
 ﻿authorId,name,component,component_size
-2151319597,J. Alonso-Moral,1,20
 3030006,S. Tabik,1,20
-50449165,A. Barbado,1,20
+2065671060,Khan Muhammad,1,20
+2999175,T. Abuhmed,1,20
+1379511816,Alejandro Barredo Arrieta,1,20
+47495965,Sajid Ali,1,20
+144833154,R. Confalonieri,1,20
+39558258,S. García,1,20
+1402195255,S. Gil-Lopez,1,20
+1704327,Riccardo Guidotti,1,20
 2058921025,Natalia Díaz Rodríguez,1,20
 9221552,J. Ser,1,20
 2445552,Richard Benjamins,1,20
-1379511816,Alejandro Barredo Arrieta,1,20
-1379511786,Adrien Bennetot,1,20
-1402195255,S. Gil-Lopez,1,20
 145337392,D. Molina,1,20
-2065671060,Khan Muhammad,1,20
-1412328163,Shaker El-Sappagh,1,20
-2091924780,Raja Chatila,1,20
-47495965,Sajid Ali,1,20
 1423321194,N. Díaz-Rodríguez,1,20
-2999175,T. Abuhmed,1,20
-144833154,R. Confalonieri,1,20
-1704327,Riccardo Guidotti,1,20
-39558258,S. García,1,20
+2151319597,J. Alonso-Moral,1,20
+50449165,A. Barbado,1,20
+2091924780,Raja Chatila,1,20
 2098723448,Francisco Herrera,1,20
-11130878,Victoria I. Marín,2,4
-1389230375,Olaf Zawacki-Richter,2,4
-1389230390,Franziska Gouverneur,2,4
+1379511786,Adrien Bennetot,1,20
+1412328163,Shaker El-Sappagh,1,20
 145768607,Melissa Bond,2,4
-9139705,Amina Adadi,3,2
+1389230390,Franziska Gouverneur,2,4
+1389230375,Olaf Zawacki-Richter,2,4
+11130878,Victoria I. Marín,2,4
 50487490,M. Berrada,3,2
-144884116,Yi Zhang,4,14
-152244300,Yuan-Fang Li,4,14
-23451726,Scott M. Lundberg,4,14
-78846919,Marco Tulio Ribeiro,4,14
-2315830,Ronen Eldan,4,14
-2247662718,Hamid Palangi,4,14
-2397827688,Peter Lee,4,14
-2109308930,Y. Lee,4,14
-120962807,J. Gehrke,4,14
-2268494857,Harsha Nori,4,14
+9139705,Amina Adadi,3,2
 143754359,Varun Chandrasekaran,4,14
 1783184,Ece Kamar,4,14
+2247662718,Hamid Palangi,4,14
+78846919,Marco Tulio Ribeiro,4,14
+2397827688,Peter Lee,4,14
+152244300,Yuan-Fang Li,4,14
+2109308930,Y. Lee,4,14
+120962807,John A. Gehrke,4,14
+144884116,Yi Zhang,4,14
+2315830,Ronen Eldan,4,14
 2064595436,Eric Horvitz,4,14
+23451726,Scott M. Lundberg,4,14
 121645690,Sébastien Bubeck,4,14
-15447189,M. Agha,5,9
+2268494857,Harsha Nori,4,14
 91573015,C. Sohrabi,5,9
-2247509061,T. Franchi,5,9
-31614073,Maria Nicola,5,9
 120002745,R. Agha,5,9
-35645232,Ginimol Mathew,5,9
-1414886863,A. Al-Jabir,5,9
 2290057522,Rasha Rashid,5,9
+15447189,M. Agha,5,9
+35645232,Ginimol Mathew,5,9
+31614073,Maria Nicola,5,9
 67293110,Ahmed Kerwan,5,9
-4884356,Shmeylan A. Al Harbi,6,13
-6458651,Abdulkareem M. Albekairy,6,13
+1414886863,A. Al-Jabir,5,9
+2247509061,T. Franchi,5,9
 5565754,Khalid Bin saleh,6,13
+2159384173,Sumaya N Almohareb,6,13
+2003687008,Atheer O. Aldairem,6,13
+2243408972,S. Alghamdi,6,13
+6458651,Abdulkareem M. Albekairy,6,13
+2291423525,N. Alsuhebany,6,13
+2243412243,Tariq Alqahtani,6,13
 12112205,Majed S. Al Yami,6,13
 11708863,H. Badreldin,6,13
-2291423525,N. Alsuhebany,6,13
+4884356,Shmeylan A. Al Harbi,6,13
 1716508276,Shuroug A. Alowais,6,13
 144882464,Mohammed A. Alrashed,6,13
 2078203152,Abdulrahman I. Alshaya,6,13
-2243412243,Tariq Alqahtani,6,13
-2243408972,S. Alghamdi,6,13
-2159384173,Sumaya N Almohareb,6,13
-2003687008,Atheer O. Aldairem,6,13
-153278840,J. Singh,7,35
-41074539,Hatice Kizgin,7,35
-3094343,B. Lucini,7,35
-3446873,Elvira R. Ismagilova,7,35
-144340154,P. Walton,7,35
-1724490,Yogesh Kumar Dwivedi,7,35
-1410968693,R. Dwivedi,7,35
-1696747,Banita Lal,7,35
-121714298,Aled Eirug,7,35
-47033159,S. Misra,7,35
-2937059,P. Ilavarasan,7,35
-1415234363,L. Meunier-FitzHugh,7,35
-102927759,Annie Tubadji,7,35
-144521858,Y. Duan,7,35
-2235927,Crispin R. Coombs,7,35
-1404797274,K. L. Meunier-FitzHugh,7,35
-2191954,K. Tamilmani,7,35
-2032434,Spyridon Samothrakis,7,35
-2116399602,Michael D. Williams,7,35
-2038468629,S. Sharma,7,35
-1688149,Nripendra P. Rana,7,35
-2285182,Tom Crick,7,35
-50817520,M. Janssen,7,35
-66781543,Jak Spencer,7,35
-143698898,J. Edwards,7,35
-2066599148,Laurie Hughes,7,35
-1418648774,Bianca Kronemann,7,35
-2733956,A. Kar,7,35
-35098701,Vishnupriya Raghavan,7,35
-2168272578,Paul Jones,7,35
-91018104,G. Aarts,7,35
-26898704,Vassilis Galanos,7,35
-2575165,R. Medaglia,7,35
-2775338,R. Raman,7,35
-52563419,E. Mogaji,7,35
-3422350,Michaël Defferrard,8,483
-2064203013,Aaron Segal,8,483
-2055632320,Katherine Chou,8,483
-1688276,Daan Wierstra,8,483
-144041873,Dong Yang,8,483
-144758007,P. Barham,8,483
-40338695,L. Koc,8,483
-2225501924,De-Jun Wang,8,483
-2065793436,M. Baumgartner,8,483
-2545358,Z. Chen,8,483
-1742135,Ziyue Xu,8,483
-48072655,J. Ledsam,8,483
-2446263,M. DePristo,8,483
-3213968,H. Blau,8,483
-2061550,Heng-Tze Cheng,8,483
-50283382,Kevin M. Cury,8,483
-144666055,Gerardo Flores,8,483
-2047998,Yuxiao Dong,8,483
-40360972,Abdel-rahman Mohamed,8,483
-35078078,M. Wicke,8,483
-2933399,Ruining He,8,483
-2064102917,A. Harp,8,483
-40867019,K. Leswing,8,483
-2019153,P. Battaglia,8,483
-145824029,David Silver,8,483
-2378027,Bharath Ramsundar,8,483
-32399256,Chongli Qin,8,483
-1924112,Felix Wichmann,8,483
-2175946,L. Sifre,8,483
-1697589,C. Sudre,8,483
-1977806,Adam Lerer,8,483
-36942233,Charlie Nash,8,483
-3262394,Daguang Xu,8,483
-1403239967,Francisco Massa,8,483
-1807998,I. Tsang,8,483
-145244249,M. Cardoso,8,483
-40031167,Sam Blackwell,8,483
-2157457895,Richard Brown,8,483
-2058362,J. Gilmer,8,483
-1942300,M. Kudlur,8,483
-40899528,Claudio Michaelis,8,483
-52326632,Christopher Semturs,8,483
-151381593,K. Ayoub,8,483
-3312922,H. Aradhye,8,483
-144887886,Christopher J. Kelly,8,483
-1713934,Antoine Bordes,8,483
-2657155,Vincent Vanhoucke,8,483
-2073806959,Tushar Chandra,8,483
-2574060,Christian Szegedy,8,483
-50730596,Zakaria Haque,8,483
-1695689,Geoffrey E. Hinton,8,483
-2064160,A. Krizhevsky,8,483
-3410500,Matthias Fey,8,483
-1891828,Leon A. Gatys,8,483
-6029718,Hugo Penedones,8,483
-2115604214,Richard Evans,8,483
-2109357255,Jimbo Wilson,8,483
-32131713,G. Corrado,8,483
-39107109,Taiga Abe,8,483
-46506460,Hanchen Wang,8,483
-1846258,Noam Shazeer,8,483
-2047256670,N. Naik,8,483
-1878835,Daniel Ramage,8,483
-1746183,Alexander S. Ecker,8,483
-151482018,George Van Den Driessche,8,483
-144867807,S. Thrun,8,483
-34185195,Karn Seth,8,483
-32163737,Benoit Steiner,8,483
-20048351,Vihan Jain,8,483
-145310670,M. Howell,8,483
-2152198093,Xiaoqiang Zheng,8,483
-2052812305,E. Yang,8,483
-1751762,Yoshua Bengio,8,483
-2118439291,Kai Chen,8,483
-144531567,H. Roth,8,483
-1745899,Chris Dyer,8,483
-2095762,M. Zitnik,8,483
-1865800402,Y. Bengio,8,483
-2166511,R. Socher,8,483
-144056327,J. Veness,8,483
-1711439,M. Modat,8,483
-145712106,Volodymyr Kuleshov,8,483
-2255499417,Yufan He,8,483
-2244651851,Tao Tu,8,483
-2068891,Alexander Mathis,8,483
-2866070,E. Kerfoot,8,483
-40078837,J. Kirby,8,483
-3365851,N. Gimelshein,8,483
-48860334,Andreea Deac,8,483
-3089272,R. Monga,8,483
-1403031665,B. Romera-Paredes,8,483
-40356669,Michaela Hardt,8,483
-10751841,V. Nath,8,483
-2552141,J. Clune,8,483
-1738536,Jimeng Sun,8,483
-1397332827,Alexander Mossin,8,483
-145822841,Ali Madani,8,483
-2801204,N. Heess,8,483
-143951081,S. Ourselin,8,483
-1765169,F. Viégas,8,483
-2965424,J. Yosinski,8,483
-2148217,Eyal Oren,8,483
-145478807,Mateusz Malinowski,8,483
-46556781,Yucheng Tang,8,483
-152599430,Lu Fang,8,483
-1975889,Marc Lanctot,8,483
-1472894007,Greg C. Corrado,8,483
-1689108,O. Vinyals,8,483
-1716221469,Vikash Gupta,8,483
-48373216,S. Dieleman,8,483
-1389654226,Brendan O'Donoghue,8,483
-40046694,Hongyu Ren,8,483
-2298901106,E. Vedadi,8,483
-2445241,E. Brevdo,8,483
-145419642,Percy Liang,8,483
-151505981,Chiyuan Zhang,8,483
-2444012,P. Khaw,8,483
-144061974,P. Mcdaniel,8,483
-1854385,Çaglar Gülçehre,8,483
-2054855144,Jamie Irvine,8,483
-3367786,Tim Harley,8,483
-47002813,Yujia Li,8,483
-10685155,Mike Schaekermann,8,483
-51011129,Simon A. A. Kohl,8,483
-31487928,Xingrui Yu,8,483
-48099761,K. Paliwal,8,483
-49437682,William L. Hamilton,8,483
-2140579405,Andre Dourson,8,483
-2047446108,Tomas Mikolov,8,483
-2190105135,Benjamin Murrey,8,483
-40813836,D. Visentin,8,483
-2064464932,Gavin E Duggan,8,483
-2053781980,Vijay Vasudevan,8,483
-2359205623,Linfeng Zhang,8,483
-1508890387,Rohan Anil,8,483
-3050846,Alban Desmaison,8,483
-1563693999,Shengchao Liu,8,483
-2792386,Harry Askham,8,483
-1387988163,A. Nelson,8,483
-2190105114,Michael Zephyr,8,483
-48987704,D. Hassabis,8,483
-2256592026,Qin Chen,8,483
-22653569,Sachidanand Alle,8,483
-48594758,Weihua Hu,8,483
-1702139,J. Leskovec,8,483
-1742197495,Petar Velivckovi'c,8,483
-1397951928,Klaus Hermann Maier-Hein,8,483
-2159642226,Le Song,8,483
-8638650,A. Rajkomar,8,483
-1879244510,Mona G. Flores,8,483
-2279162093,Brenna Li,8,483
-2830305,T. Back,8,483
-34521172,Sarvar Patel,8,483
-2329784607,H. Shah,8,483
-10721060,Behrooz Hashemian,8,483
-2269147696,Joelle K. Barral,8,483
-2087238859,Bo Han,8,483
-2065543896,Hans J. Johnson,8,483
-2188778449,Carla P. Gomes,8,483
-2090818,M. Isard,8,483
-4337102,Julian Schrittwieser,8,483
-2388466,Matthieu Courbariaux,8,483
-2107323185,S. K. Zhou,8,483
-15386481,Mingxin Zheng,8,483
-1949747,Robert Geirhos,8,483
-2364487,Alexandre Robicquet,8,483
-34505275,Tiago Ramalho,8,483
-3407277,Adam Paszke,8,483
-82991867,Haris Shuaib,8,483
-3480712,Ryutaro Tanno,8,483
-143665076,N. Shah,8,483
-3158246,B. V. Merrienboer,8,483
-40348417,Ashish Vaswani,8,483
-48348688,Stig Petersen,8,483
-145719986,J. David,8,483
-2039588,Keith Bonawitz,8,483
-2078528337,Ashish Agarwal,8,483
-1398898827,A. Grabska-Barwinska,8,483
-47568983,George van den Driessche,8,483
-2323157386,S.C.D. Hampson,8,483
-20615377,Angjoo Kanazawa,8,483
-46378362,M. Botvinick,8,483
-1404756328,Simon Bouton,8,483
-2212030,Antonio Marcedone,8,483
-47941411,Pete Warden,8,483
-2315504,R. Hadsell,8,483
-115517806,Zahra F H Abad,8,483
-2061834614,Hugh Montgomery,8,483
-22236100,Sasank Chilamkurthy,8,483
-144375552,Sherry Moore,8,483
-2542999,T. Lillicrap,8,483
-1761978,D. Erhan,8,483
-2955312,Yipeng Hu,8,483
-2107692,Marc Brockschmidt,8,483
-2115854801,Jian Tang,8,483
-2555924,Andrew M. Dai,8,483
-2118439896,Kaifeng Chen,8,483
-36347083,Andy Davis,8,483
-7886986,Fabian Isensee,8,483
-145934658,A. Mottaghi,8,483
-1863250,A. Pritzel,8,483
-143967473,Pushmeet Kohli,8,483
-2107148568,H. F. Song,8,483
-2066516991,J. Kirkpatrick,8,483
-2158860,Jessica B. Hamrick,8,483
-2110264337,Tie-Yan Liu,8,483
-2108406634,Jianmin Chen,8,483
-2067332805,Prerna Dogra,8,483
-3133079,V. Zambaldi,8,483
-2347660128,Caleb Geniesse,8,483
-2108927035,Yiheng Wang,8,483
-1413966277,A. Diaz-Pinto,8,483
-2063968590,Andrew Feng,8,483
-1811529,A. Esteva,8,483
-2549032,X. Bresson,8,483
-144927151,M. Schuster,8,483
-2047009195,Oishi Banerjee,8,483
-3369421,J. Levenberg,8,483
-144758045,E. Topol,8,483
-3255983,Volodymyr Mnih,8,483
-49235356,Miao Xu,8,483
-145254624,Kelsey R. Allen,8,483
-40662181,Madeleine Leach,8,483
-40627523,Balaji Lakshminarayanan,8,483
-1688882,Yann LeCun,8,483
-144103822,C. Egan,8,483
-7999018,Brett Kuprel,8,483
-2388737,C. Clopath,8,483
-2056266,Taco Cohen,8,483
-8270717,Junyoung Chung,8,483
-1812154,Brad W. Genereaux,8,483
-145124475,R. Salakhutdinov,8,483
-145204690,H. Yee,8,483
-145233583,M. Wattenberg,8,483
-2139962185,Klaus H. Maier-Hein,8,483
-1751569,Samy Bengio,8,483
-144223091,Vivek Natarajan,8,483
-4908509,Ben Kreuter,8,483
-83539859,Rex Ying,8,483
-2573615,Mustafa Suleyman,8,483
-144231976,A. Swami,8,483
-2401609,Dominik Grewe,8,483
-1796253611,Mohammad Zalbagi Darestani,8,483
-2072422622,Vladimir Ivanov,8,483
-145986494,Joseph Gomes,8,483
-40974349,Dylan Bourgeois,8,483
-2188736387,Nic Ma,8,483
-2563432,Wojciech Zaremba,8,483
-39793298,Sam Gross,8,483
-2153914077,Yi Zhang,8,483
-2279022140,Jan Freyberg,8,483
-1388915274,Dominic King,8,483
-35099444,A. Guez,8,483
-2066201331,Victoria Langston,8,483
-144963627,C. Budd,8,483
-2603033,V. Bapst,8,483
-1747909,Hod Lipson,8,483
-3296031,T. Shaked,8,483
-35021793,D. Sim,8,483
-33666044,A. Senior,8,483
-2844530,Andrea Tacchetti,8,483
-2117715807,H. Krumholz,8,483
-2427076,Tianfan Fu,8,483
-46875891,Julien Cornebise,8,483
-1471429910,Wenjie Zhu,8,483
-1473151134,Andreas Köpf,8,483
-1806271,V. Pande,8,483
-35188630,George E. Dahl,8,483
-5932099,Evan N. Feinberg,8,483
-2064995505,G. Anderson,8,483
-7638730,Matthew Tancik,8,483
-5638585,P. Keane,8,483
-150068346,Can Zhao,8,483
-9229182,B. Recht,8,483
-2613935,A. Manrai,8,483
-2276554,R. Fergus,8,483
-2047844,Anima Anandkumar,8,483
-2268759673,Karan Singhal,8,483
-49334294,Reena Chopra,8,483
-1996134,Razvan Pascanu,8,483
-2014232,Tom Kamiel Magda Vercauteren,8,483
-34838386,K. Simonyan,8,483
-1968210,Tom Erez,8,483
-1405260934,Sara Fridovich-Keil,8,483
-153583218,Mehdi Mirza,8,483
-4648200,S. Swetter,8,483
-47112939,Wenqi Li,8,483
-1406288863,Clemens Meyer,8,483
-3029482,L. Antiga,8,483
-2109481,Yuval Tassa,8,483
-2067152591,P. Sundberg,8,483
-134151108,Jeffrey De Fauw,8,483
-2027068520,L. Cooper,8,483
-1731199,M. Bethge,8,483
-49431218,Jake Marcus,8,483
-35030998,Adam Santoro,8,483
-2611242,Andriy Myronenko,8,483
-3360632,Keyulu Xu,8,483
-145094244,J. Hughes,8,483
-1556095165,Kun Zhang,8,483
-2772217,Chris J. Maddison,8,483
-2084098271,Greg S. Corrado,8,483
-46354410,K. Bergen,8,483
-2152832173,Li Zhang,8,483
-3335364,Dzmitry Bahdanau,8,483
-36045539,Adrià Puigdomènech Badia,8,483
-89356020,P. Chandak,8,483
-2268760043,S. Mahdavi,8,483
-2111161526,Yiwen Li,8,483
-49959210,J. Dean,8,483
-2228923747,Max Welling,8,483
-1397332848,Nissan Hajaj,8,483
-2266472373,Anil Palepu,8,483
-1775622,Moritz Hardt,8,483
-38009979,Chaitanya K. Joshi,8,483
-143627859,Joan Bruna,8,483
-153440022,I. Goodfellow,8,483
-2269258459,Le Hou,8,483
-144518416,Holger Schwenk,8,483
-2213266,Nenad Tomašev,8,483
-1944541,R. Józefowicz,8,483
-145057514,H. B. McMahan,8,483
-114250963,Gregory Chanan,8,483
-35025299,Peter J. Liu,8,483
-1957738,S. Volchenboum,8,483
-2059271276,Trevor Killeen,8,483
-1754926,Michele Catasta,8,483
-1557487144,Michael Moor,8,483
-2583391,Nal Kalchbrenner,8,483
-47152898,S. Aylward,8,483
-2269173133,Yong Cheng,8,483
-2226493959,D. Marks,8,483
-2106164,D. Kumaran,8,483
-41020817,P. Mamidanna,8,483
-8181864,Kieran Milan,8,483
-5347246,R. Novoa,8,483
-34149749,Serena Yeung,8,483
-40634590,Wieland Brendel,8,483
-35396901,Kurt Litsch,8,483
-2291172852,Albert Webson,8,483
-48448318,J. Dean,8,483
-145829303,Jiaxuan You,8,483
-1680133,S. Jha,8,483
-29983126,Justin Tansuwan,8,483
-1764249,Joan Lasenby,8,483
-2594093,S. Jegelka,8,483
-1397958668,L. Maier-Hein,8,483
-143724694,David Raposo,8,483
-40151244,Shekoofeh Azizi,8,483
-2127604,Soumith Chintala,8,483
-2897313,Nitish Srivastava,8,483
-2224893214,Mohamed Amin,8,483
-2269148145,Kavita Kulkarni,8,483
-47921134,J. Jumper,8,483
-1885349,Aja Huang,8,483
-1697397,P. Vandergheynst,8,483
-1716151,A. Butte,8,483
-31374559,Ali Hatamizadeh,8,483
-30415265,Dandelion Mané,8,483
-2108113547,Xiaoqiang Zhang,8,483
-145312436,R. Raine,8,483
-20154699,D. Murray,8,483
-2024370854,Alex Yu,8,483
-2269148232,Yossi Matias,8,483
-1686971,T. Graepel,8,483
-2118113191,Yun Liu,8,483
-14813718,B. Erdal,8,483
-2217278,Lichan Hong,8,483
-152898526,David T. Jones,8,483
-2323922,Jonathan J. Hunt,8,483
-2460849,Ioannis Antonoglou,8,483
-13027820,Connor W. Coley,8,483
-1753223,Alex Graves,8,483
-2269148566,Katherine Chou,8,483
-2253681376,Zachary DeVito,8,483
-48206221,Stanislav Nikolov,8,483
-6413143,A. Karthikesalingam,8,483
-1398105826,Alvaro Sanchez-Gonzalez,8,483
-2827616,Quoc V. Le,8,483
-2357599490,C. Olah,8,483
-51235219,Vijay Prakash Dwivedi,8,483
-1789737,Jonathon Shlens,8,483
-1804104,R. Zemel,8,483
-2213433382,A. Karthikesalingam,8,483
-2749418,Vedavyas Panneershelvam,8,483
-2065251344,James Bradbury,8,483
-1396184193,Andy Chu,8,483
-1732570,M. Bronstein,8,483
-1861312,Azalia Mirhoseini,8,483
-39978391,Yangqing Jia,8,483
-2066076307,Jeremiah Harmsen,8,483
-3433461,Dana Ludwig,8,483
-1392692054,Alex Bridgland,8,483
-2755582,Guillaume Desjardins,8,483
-3950657,Srinivasan Madabushi,8,483
-3259992,Quanming Yao,8,483
-3229600,R. Floca,8,483
-2156641189,Bowen Liu,8,483
-2052275005,Claire Cui,8,483
-41203992,Alykhan Tejani,8,483
-50988143,Pong Eksombatchai,8,483
-34660073,John Quan,8,483
-152800798,Jens Petersen,8,483
-2279021635,Khaled Saab,8,483
-2076086,Fethi Bougares,8,483
-48738717,C. Citro,8,483
-2108730532,Wenqi Li,8,483
-2113829116,Junjie Bai,8,483
-2122839480,Benjamin L. Gorman,8,483
-32826181,Cían O. Hughes,8,483
-2080690,P. Tucker,8,483
-2096458,Luke Metz,8,483
-2275364713,Krzysztof Maziarz,8,483
-2661025,B. A. Y. Arcas,8,483
-2053221949,Michael Pearson,8,483
-145591745,Ilya Mironov,8,483
-37413761,M. Ispir,8,483
-81634721,T. Laurent,8,483
-10707709,Martin Raison,8,483
-3444569,Petar Velickovic,8,483
-2117163698,Yuan Yu,8,483
-2117941801,Ziming Liu,8,483
-1979489,Kyunghyun Cho,8,483
-2367796356,Nicolas Papernot,8,483
-2226485816,Peter Van Katwyk,8,483
-3051369,Steve Crossan,8,483
-2351978134,Guotai Wang,8,483
-3149531,Arthur Szlam,8,483
-1401724111,Jayashree Kalpathy-Cramer,8,483
-93584228,Yuanqi Du,8,483
-2118254614,Mimi Sun,8,483
-1725299,Daniel Tarlow,8,483
-2109059862,Xiaobing Liu,8,483
-1780892,S. Ghemawat,8,483
-47537639,Gang Niu,8,483
-3370429,Zeming Lin,8,483
-1737326,O. Ronneberger,8,483
-49556437,James Wexler,8,483
-51123416,Yunguan Fu,8,483
-35210462,Kunal Talwar,8,483
-145714153,Alexey Kurakin,8,483
-4906896,A. Tufail,8,483
-9957625,Zhenqin Wu,8,483
-51919565,J. Jacobsen,8,483
-31449330,Eider Moore,8,483
-1701686,I. Sutskever,8,483
-1484039896,Tim Green,8,483
-38909097,Alec Radford,8,483
-49454094,Kexin Huang,8,483
-40501144,Augustin Žídek,8,483
-1781663,K. Farahani,8,483
-145244251,M. Jorge Cardoso,8,483
-3119801,Xavier Glorot,8,483
-1404756279,Faith Mackinder,8,483
-120805419,Mingxing Tan,8,483
-2623167,Matt Fredrikson,8,483
-5929246,Aneesh S. Pappu,8,483
-145704247,James Martens,8,483
-2064803047,Isaac Yang,8,483
-1453104568,P. Rajpurkar,8,483
-2228824,Andrei A. Rusu,8,483
-2051681709,Juraj Gottweis,8,483
-2057642721,Martín Abadi,8,483
-40527594,Lukasz Kaiser,8,483
-2055400243,Wei Chai,8,483
-4111313,John Nham,8,483
-144440610,V. Murthy,8,483
-51433108,P. Jaeger,8,483
-67154907,Masashi Sugiyama,8,483
-2190105810,David Bericat,8,483
-2226475487,Shirley Ho,8,483
-145139947,M. Devin,8,483
-37397407,J. Ko,8,483
-3422052,Neil C. Rabinowitz,8,483
-2153575781,Wenhao Gao,8,483
-5055381,A. Ballard,8,483
-2645384,K. Kavukcuoglu,8,483
-2056947059,Jeffrey Dean,8,483
-4058359,Mackenzie W. Mathis,8,483
-145521470,G. Rees,8,483
-2060655766,G. Irving,8,483
-144643812,Z. Celik,8,483
-2217861514,Amy Wang,8,483
-2335370855,Ana Zizaeva,9,3
-2310506836,Valery V. Kosulin,9,3
+2594093,S. Jegelka,7,21
+3410500,Matthias Fey,7,21
+2047009195,Oishi Banerjee,7,21
+48594758,Weihua Hu,7,21
+2933399,Ruining He,7,21
+2156641189,Bowen Liu,7,21
+2095762,M. Zitnik,7,21
+49437682,William L. Hamilton,7,21
+83539859,Rex Ying,7,21
+1557487144,Michael Moor,7,21
+144758045,E. Topol,7,21
+1453104568,P. Rajpurkar,7,21
+3360632,Keyulu Xu,7,21
+50988143,Pong Eksombatchai,7,21
+115517806,Zahra F H Abad,7,21
+1702139,J. Leskovec,7,21
+2117715807,H. Krumholz,7,21
+1754926,Michele Catasta,7,21
+40046694,Hongyu Ren,7,21
+2047998,Yuxiao Dong,7,21
+2118439896,Kaifeng Chen,7,21
+144340154,P. Walton,8,35
+143698898,J. Edwards,8,35
+153278840,J. Singh,8,35
+144521858,Y. Duan,8,35
+2937059,P. Ilavarasan,8,35
+102927759,Annie Tubadji,8,35
+1410968693,R. Dwivedi,8,35
+1418648774,Bianca Kronemann,8,35
+2066599148,Laurie Hughes,8,35
+1404797274,K. L. Meunier-FitzHugh,8,35
+2733956,A. Kar,8,35
+1415234363,L. Meunier-FitzHugh,8,35
+91018104,G. Aarts,8,35
+2168272578,Paul Jones,8,35
+50817520,M. Janssen,8,35
+2116399602,Michael D. Williams,8,35
+1688149,Nripendra P. Rana,8,35
+2191954,K. Tamilmani,8,35
+3446873,Elvira R. Ismagilova,8,35
+2038468629,S. Sharma,8,35
+121714298,Aled Eirug,8,35
+66781543,Jak Spencer,8,35
+2032434,Spyridon Samothrakis,8,35
+3094343,B. Lucini,8,35
+2285182,Tom Crick,8,35
+52563419,E. Mogaji,8,35
+35098701,Vishnupriya Raghavan,8,35
+2575165,R. Medaglia,8,35
+1696747,Banita Lal,8,35
+47033159,S. Misra,8,35
+1724490,Yogesh Kumar Dwivedi,8,35
+2235927,Crispin R. Coombs,8,35
+26898704,Vassilis Galanos,8,35
+41074539,Hatice Kizgin,8,35
+2775338,R. Raman,8,35
 119848616,S. A. Vakhabova,9,3
-72729174,Rajeev Ronanki,10,2
-2350447013,Andrew Nguyen,10,2
-1807005,V. C. Müller,11,2
-2193691,N. Bostrom,11,2
-2341465150,Yunfang Yu,12,9
-2341320480,Xiaokun Li,12,9
-2115568943,Yifei Wang,12,9
-2150439478,Xin Yang,12,9
-2257481824,Niu Huang,12,9
-2144996119,Shengyong Yang,12,9
-2336957677,Kang Zhang,12,9
-2321665003,Joseph Wu,12,9
-2341278744,Gen Li,12,9
-1669767608,Lijia Chen,13,3
-47978704,Pingping Chen,13,3
-144264986,Zhijian Lin,13,3
-51931569,Md Kamruzzaman Sarker,14,2
-1699771,P. Hitzler,14,2
-2332602539,Zhenzhou Zhu,15,6
-2368468789,T. Tran,15,6
-2155602966,Fang Wang,15,6
-2117194781,Shan Wang,15,6
-2264403157,Jingxuan Wang,15,6
-2265219069,Zhao Du,15,6
-2233658018,Atmesh Mahapatra,16,10
-3185174,V. Chamola,16,10
-5380819,Kaizhu Huang,16,10
-150331642,Vikas Hassija,16,10
-73235682,Divyansh Goel,16,10
-115566972,Indro Spinelli,16,10
-2188228655,Mufti Mahmud,16,10
-2147282532,Abhinandan Singal,16,10
-1752983,Simone Scardapane,16,10
-2199960729,Amir Hussain,16,10
-2168834,H. Crompton,17,2
-46596152,D. Burke,17,2
-47454309,Q. Dong,18,9
-36156845,Sufeng Ma,18,9
-2117937034,Yong Jiang,18,9
-2108094216,Yongjun Wang,18,9
-1976425918,Hui Zhi,18,9
-67092021,F. Jiang,18,9
-1974599,Yi Dong,18,9
-46829048,Haipeng Shen,18,9
-119918227,Yilong Wang,18,9
-145207212,T. Davenport,19,2
-2235117,R. Kalakota,19,2
-123247135,Whitney Zhang,20,2
-119462164,Shakked Noy,20,2
-143819435,A. Hosny,21,5
-40470674,Chintan Parmar,21,5
-143849569,H. Aerts,21,5
-35802562,L. Schwartz,21,5
-144101458,John Quackenbush,21,5
-2289937789,Lisa Messeri,22,2
-2252001646,M. J. Crockett,22,2
-2141688223,Aderonke Odetayo,23,6
-2192531725,A. David-Olawade,23,6
-2000633111,O. Z. Wada,23,6
-40013762,Judith Eberhardt,23,6
-2143276437,Fiyinfoluwa Asaolu,23,6
-1582736975,D. Olawade,23,6
-5294077,S. S. Sengar,24,4
-2211979246,Affan Bin Hasan,24,4
-2302463084,S. Kumar,24,4
-2302337247,Fiona Carroll,24,4
-2265653887,Enrico Motta,25,4
-2052329,Francesco Osborne,25,4
-2283933104,Francisco Bolanos,25,4
-40520756,Angelo Salatino,25,4
-2279449118,Ashwani Jangid,26,4
-2151645335,Ranu Sewada,26,4
-2354151275,N. Mishra,26,4
-2279513475,Piyush Kumar,26,4
-2248119919,Charles E. Kahn,27,7
-83249960,Ali S. Tejani,27,7
-2053663,John T Mongan,27,7
-11008452,M. Klontzas,27,7
-2241652185,Linda Moy,27,7
-2240178734,Anthony A Gatti,27,7
-2149246758,S. Park,27,7
-2315304982,Xinhai Li,28,9
-2249914584,Sarah Hearne,28,9
-2237514927,Awais Rasheed,28,9
-2294503132,Huihui Li,28,9
-2315381647,B. Prasanna,28,9
-2385476233,M. Farooq,28,9
-2225077092,Zhangping Huang,28,9
-2114797708,Muhammad Adeel Hassan,28,9
-2272659850,Shang Gao,28,9
-2237627252,E. Topol,29,4
-2243423097,Ewen M. Harrison,29,4
-1484657986,Chris Varghese,29,4
-2257934340,Greg O'grady,29,4
-104539698,R. Wolniak,30,2
-101332229,K. Stecuła,30,2
-51240905,A. He,31,4
-3042015,A. Fedyk,31,4
-40597167,James Hodson,31,4
-120236216,T. Babina,31,4
-32239759,M. Wiering,32,2
-1697177,Bart Verheij,32,2
-2349261024,Hanyun Wang,33,49
-2139714419,Rizwan Rehman,33,49
-31843833,Xiaogang Wang,33,49
-1759608,P. Pardalos,33,49
-2375281093,Bilal Alatas,33,49
-50762381,Jie Chen,33,49
-50295995,Xiaoou Tang,33,49
-3444950,J. Eshraghian,33,49
-1719250,Xiaochun Cao,33,49
-2108754292,Xinwang Liu,33,49
-1698675,Bennamoun,33,49
-1678622,M. Ghavamzadeh,33,49
-150271813,R. Alizadehsani,33,49
-2055420847,P. Bora,33,49
-143844110,Wei Lu,33,49
-144531494,V. Makarenkov,33,49
-7412048,M. Abdar,33,49
-2238592603,U. Acharya,33,49
-2266944188,Max Ward,33,49
-2236895388,Girish Dwivedi,33,49
-145434108,A. Khosravi,33,49
-2052178444,Hao Liu,33,49
-1731709,P. Fieguth,33,49
-145962204,M. Pietikäinen,33,49
-49953655,Z. Sadeghi,33,49
-2278052143,Milan Hladík,33,49
-65856946,A. Shoeibi,33,49
-2238318553,Doo Seok Jeong,33,49
-1822511,P. Mahanta,33,49
-2117940996,Ziwei Liu,33,49
-1404229235,Dana Rezazadegan,33,49
-2281323752,Yulan Guo,33,49
-2108023170,Xinxin Wang,33,49
-1833049320,Sadiq Hussain,33,49
-1743136,S. Nahavandi,33,49
-2383955,Samina Kausar,33,49
-2249554228,Gregor Lenz,33,49
-39695518,Li Liu,33,49
-47571885,Ping Luo,33,49
-2264264805,Emre O. Neftci,33,49
-2305411885,Mehmet Akif Çifçi,33,49
-72801201,Ammar Almasri,33,49
-1901151,Rami Suleiman Alkhawaldeh,33,49
-2217035351,Saeid Nahavandi,33,49
-8163866,Qingyong Hu,33,49
-3001348,Wanli Ouyang,33,49
-1866603,Farhad Pourpanah,33,49
-2150977916,Li Liu,33,49
-1885213,H. Moosaei,33,49
-32433579,Michele Salvagno,34,3
-1738459585,A. Gerli,34,3
-4254919,F. Taccone,34,3
-39972122,P. Nath,35,12
-5163515,Y. K. Mohanta,35,12
-2260908366,Prakash Kumar Nayak,35,12
-79382006,Minaxi Sharma,35,12
-2260404944,Bishwambhar Mishra,35,12
-2257052575,A. Tiwari,35,12
-87698223,Sushant Kaushal,35,12
-15222643,A. K. Mishra,35,12
-5849659,Biswanath Bhunia,35,12
-2120687318,Kandi Sridhar,35,12
-2261075041,Ramesh Sharma,35,12
-2283865405,Tamanna Bhuyan,35,12
-50474058,Ming-Hui Huang,36,2
-1813939,R. Rust,36,2
-2852308,M. Haenlein,37,2
-35064842,A. Kaplan,37,2
-1757645,S. Cuomo,38,8
-2150345602,Maizar Raissi,38,8
-1784067,F. Piccialli,38,8
-2104716,G. Rozza,38,8
-31444174,Gwanggil Jeon,38,8
-48436124,Vincenzo Schiano Di Cola,38,8
-2151840708,Imran Ahmed,38,8
-1419488056,F. Giampaolo,38,8
-1740664,P. Rau,39,3
-46270214,Bingcheng Wang,39,3
-2060625934,Tianyi Yuan,39,3
-2268457013,Usman Munir,40,4
-2116406786,Bryan Williams,40,4
-2119588844,Junaid Bajwa,40,4
-2064953709,A. Nori,40,4
-2258772335,Firuz Kamalov,41,3
-2267275190,David Santandreu Calonge,41,3
-2120620052,Ikhlaas Gurrib,41,3
-3458650,Anna Jobin,42,3
-3453968,M. Ienca,42,3
-145104974,E. Vayena,42,3
-2134080148,Yanjun Wu,43,47
-50875636,Xiaohong Liu,43,47
-2757967,Yongjun Xu,43,47
-122222311,T. An,43,47
-2107954001,Libo Zhang,43,47
-5024726,Huiyu Xu,43,47
-2485739,S. Dietmann,43,47
-2109240984,James P. Lewis,43,47
-36875027,Chuan‐Qi Lu,43,47
-152584288,J. Tiedje,43,47
-46607507,C. Fu,43,47
-2146038034,Xingchen Liu,43,47
-2158094216,Xiaolei He,43,47
-2146566239,Sen Qian,43,47
-2143644237,Cheng-Wei Qiu,43,47
-1713877,Changping Huang,43,47
-2144559662,Jialiang Yang,43,47
-2110813546,Tao Huang,43,47
-2150203108,Fengliang Dong,43,47
-2153707621,Taolan Zhao,43,47
-2069534711,Zhigang Yin,43,47
-2127813,Zhulin An,43,47
-2076561573,M. Virta,43,47
-2114647406,Ming Luo,43,47
-29993977,En-ju Liu,43,47
-2150086038,Junjun Qiu,43,47
-2118795900,Jianwei Dai,43,47
-2140326187,Ze Zhang,43,47
-2119454336,Bin Zhang,43,47
-2151570322,Qi Wang,43,47
-108263114,F. Kengara,43,47
-2118395023,Zhaofeng Liu,43,47
-2135923977,Lifu Zhang,43,47
-2155467901,Wei Zhang,43,47
-2286159718,Jiabao Zhang,43,47
-2113440834,Zhipeng Cai,43,47
-3660946,R. Roepman,43,47
-2135657405,Shan Cong,43,47
-143697703,L. Lan,43,47
-2344269534,K. Hua,43,47
-51199769,Xinya Cao,43,47
-2112374642,Yong Han,43,47
-2148955026,Fei Wang,43,47
-2120101968,Xin Liu,43,47
-2144067551,Miao Liu,43,47
-7572514,Fang Wang,43,47
-2147219444,Wentao Su,43,47
-2125366113,Keshava Jetha,44,6
-14569224,A. Gholap,44,6
-2189065687,H. Solanki,44,6
-50131730,Lalitkumar K. Vora,44,6
-1714594,R. Thakur,44,6
-7573580,Vivek P. Chavda,44,6
-2221610051,Jianmin Hua,45,14
-2221641170,Yubing Zhang,45,14
-48354998,Zhonghao Chen,45,14
-80967597,Mohamed Farghali,45,14
-50706019,I. Ihara,45,14
-123276858,P. Yap,45,14
-1403852274,A. Al-Fatesh,45,14
-32474777,A. Osman,45,14
-3273326,Bingbing Fang,45,14
-2126610635,David W. Rooney,45,14
-2217843411,Jiacheng Yu,45,14
-2117421506,Yunfei Liu,45,14
-3488588,E. Hamza,45,14
-2145130787,Lin Chen,45,14
-2060422236,S. Sahai,46,12
-2108279369,Richard J. Chen,46,12
-25259989,Drew F. K. Williamson,46,12
-2109623647,Judy J. Wang,46,12
-2242468870,Tiffany Y. Chen,46,12
-1384374551,Tiffany R. Miller,46,12
-2187496179,Anurag Vaidya,46,12
-1959705,Jana Lipková,46,12
-16184125,Ming Y. Lu,46,12
-35685584,Guillaume Jaume,46,12
-37122655,Faisal Mahmood,46,12
-2253812042,Andrew H. Song,46,12
-1759658,D. Zha,47,7
-47653902,Zhimeng Jiang,47,7
-2109724398,Xia Hu,47,7
-2122929218,Zaid Pervaiz Bhat,47,7
-2181946372,Shaochen Zhong,47,7
-47829900,Fan Yang,47,7
-51238382,Kwei-Herng Lai,47,7
-2139199675,Junaid Qadir,48,5
-1404786833,A. Al-Fuqaha,48,5
-2146174432,Adnan Qayyum,48,5
-144769156,M. Bilal,48,5
-1557646902,N. Khalid,48,5
-2220804070,Dhoha Al Muhanna,49,8
-3528287,A. Subbarayalu,49,8
-2219616129,Abdullah Al-Reedy,49,8
-2067184257,Shaher Z. Al-Shehri,49,8
-2274559129,Khalid Nazer,49,8
-51273488,Ahmed Al Kuwaiti,49,8
-2083368779,Fahad A Al-Muhanna,49,8
-2373351123,Afnan Almuhanna,49,8
-2221207775,K. Kamagata,50,18
-2221127929,S. Fujita,50,18
-2150400,Y. Fushimi,50,18
-47209651,T. Tsuboyama,50,18
-3012818,T. Nozaki,50,18
-51502377,D. Ueda,50,18
-33977375,M. Kawamura,50,18
-145477449,A. Yamada,50,18
-6054641,F. Tatsugami,50,18
-2016969,K. Hirata,50,18
-13116580,Y. Matsui,50,18
-3817378,T. Nakaura,50,18
-39073663,M. Yanagawa,50,18
-4403860,Tomoyuki Fujioka,50,18
-2227482320,Taichi Kakinuma,50,18
-2029317,N. Fujima,50,18
-8853026,Rintaro Ito,50,18
-2216728,S. Naganawa,50,18
-2161474852,Abdulaziz Aldoseri,51,3
-2256118396,Abdel Magid Hamouda,51,3
-1397713765,K. Al-Khalifa,51,3
-7535677,I. Galazzo,52,7
-47252797,G. Menegaz,52,7
-2066096280,P. Radeva,52,7
-2128433007,Steffen E. Petersen,52,7
-1416582394,Z. Raisi-Estabragh,52,7
-2364820,K. Lekadir,52,7
-2073905807,Ahmed M. A. Salih,52,7
-152378504,Michael R. King,53,2
-2337343124,ChatGPT,53,2
-120187198,Byron Crowe,54,3
-8650106,Zahir Kanjee,54,3
-48883481,A. Rodman,54,3
-30819540,J. Ke,55,11
-2169801312,Razan Zatarah,55,11
-15692126,Rachel S. Hicklen,55,11
-2220435284,Shai Waldrip,55,11
-1716546,Haobo Ma,55,11
-2145841875,Lama Moukheiber,55,11
-2731090,P. Mathur,55,11
-2139921488,M. Moukheiber,55,11
-1717205287,A. Khanna,55,11
-6878211,L. Nazer,55,11
-2114905585,D. Moukheiber,55,11
-2182079774,Bangul Khan,56,7
-49596260,Surinder Kumar,56,7
-2036663643,Hajira Fatima,56,7
-2205182276,Saad Abdullah,56,7
-2407073825,A. Hanan,56,7
-2143613791,A. Qureshi,56,7
-50877934,J. Hussain,56,7
-2286055296,Thomas H. Davenport,57,4
-2195713700,Yogesh K. Dwivedi,57,4
-2260481649,Niki Panteli,57,4
-1774804,N. Kshetri,57,4
-1781819,G. Salvendy,58,26
-34851433,Sean McGregor,58,26
-2321620228,Keri Grieman,58,26
-2112668,Constantinos K. Coursaris,58,26
-1769316,Ivan I. Garibay,58,26
-144018558,M. Antona,58,26
-1404481474,M. López-González,58,26
-1685903,C. Stephanidis,58,26
-2155782652,Wei Xu,58,26
-1733749,W. Karwowski,58,26
-3244136,Joseph T. Kider,58,26
-1771117,M. Jirotka,58,26
-2290342160,Anja Bodenschatz,58,26
-2125543425,Ozlem Ozmen Garibay,58,26
-15681144,John C. Havens,58,26
-1745229,Hernisa Kacorri,58,26
-2351064307,Sean Koon,58,26
-1740403,B. Shneiderman,58,26
-2139983893,Christina Strobel,58,26
-2911375,Brent D. Winslow,58,26
-2135685353,C. Ten Holter,58,26
-35145855,S. Fiore,58,26
-2478310,J. Konstan,58,26
-51301693,Gregory Falco,58,26
-1451703298,I. Maifeld-Carucci,58,26
-2525289,S. Andolina,58,26
-2204252078,Dennis Bruemmer,59,6
-2140404141,Fatima Rodriguez,59,6
-4796976,E. V. Van Iterson,59,6
-2275501436,Luke Laffin,59,6
-3914102,Ashish Sarraju,59,6
-4159243,L. Cho,59,6
-2198765822,Nafiseh Ghaffar Nia,60,3
-144288618,A. Nasab,60,3
-8307959,E. Kaplanoğlu,60,3
-2225325036,Javier De-Moreta-Llovet,61,4
-2224113717,Mario González-Rodríguez,61,4
-1410071097,Patricia Acosta-Vargas,61,4
-2225364164,Lena Ivannova Ruiz-Rojas,61,4
-2118689474,Zeqi Zhang,62,4
-2105731841,Bifei Mao,62,4
-2115585545,X. Yao,62,4
-15913738,Changwu Huang,62,4
-73758213,Praveenkumar Vaidya,63,17
-2402428563,Ting Wang,63,17
-75067375,Daniel A. Agbaji,63,17
-2376876715,J. Alhassan,63,17
-2211498935,Lydia Ogbadu-Oladapo,63,17
-30626793,Aishwarya Srivastava,63,17
-2241889653,Sravya Uppala,63,17
-143787727,Sakib Shahriar,63,17
-151349904,Solomon Tijani,63,17
-2241896120,Chalermchai Oak Pohboon,63,17
-2221218808,Sai Priya Tummuru,63,17
-66673215,Brady D. Lund,63,17
-2212887866,Nishith Reddy Mannuru,63,17
-2237238712,S. Saurav,63,17
-2209524983,Z. A. Teel,63,17
-2241892110,Raana Kousari,63,17
-2241896550,JaKLyn Galley,63,17
-2109834922,Manjul Gupta,64,2
-2424691,P. Mikalef,64,2
-101331070,Ella Glikson,65,2
-2696361,A. Woolley,65,2
-2243580629,Anil V. Parwani,66,2
-2243313274,Saba Shafi,66,2
-2220253458,Leonardo Banh,67,2
-144015598,G. Strobel,67,2
-144121289,N. Patel,68,2
-80470531,M. Dave,68,2
-2110751949,Haotian Yu,69,2
-152699208,Yunyun Guo,69,2
-2079500287,Andreas Sesing,70,8
-143797080,H. Hermanns,70,8
-34390902,Lena Kästner,70,8
-32622348,Timo Speith,70,8
-144311915,Kevin Baum,70,8
-2084330522,Eva Schmidt,70,8
-38229622,Markus Langer,70,8
-2064548667,Daniel Oster,70,8
-2171431,B. Arezoo,71,3
-2679144,Mohsen Soori,71,3
-2105131662,Roza Dastres,71,3
-2646713,A. Rahmim,72,4
-39060495,T. Bradshaw,72,4
-2210280393,Zachary Huemann,72,4
-47756385,Junjie Hu,72,4
-143649421,Andrew Beam,73,3
-2804918,M. Ghassemi,73,3
-1404268029,Luke Oakden-Rayner,73,3
-1850516652,Marium Malik,74,4
-2295101258,M. Tariq,74,4
-2134807434,Maira Kamran,74,4
-143750192,M.R Naqvi,74,4
-41019599,F. F. Nerini,75,10
-2622491,Hossein Azizpour,75,10
-122252143,Anna Felländer,75,10
-2011933,Max Tegmark,75,10
-39799707,Iolanda Leite,75,10
-34642801,S. Langhans,75,10
-2307176652,Ricardo Vinuesa,75,10
-2599601,Madeline Balaam,75,10
-1716665,Virginia Dignum,75,10
-6126354,S. Domisch,75,10
-3074222,A. Schepman,76,6
-2072226241,Feridun Kaya,76,6
-34909038,F. Aydın,76,6
-2195204506,Okan Yeti̇şensoy,76,6
-2221027869,Meva Demir Kaya,76,6
-2492734,P. Rodway,76,6
-5777361,J. Drazen,77,2
-4815642,C. Haug,77,2
-2240275731,Wei Gao,78,3
-2146968880,Samuel A. Solomon,78,3
-40796499,Changhao Xu,78,3
-113628130,Eva T. Szodorai,79,2
-2280222939,Gilles E. Gignac,79,2
-2117540619,D. Ng,80,3
-9088872,Jiahong Su,80,3
-120068783,S. K. Chu,80,3
-2729443,Sebastian Raisch,81,2
-90481203,Sebastian Krakowski,81,2
-14838210,Zhiping Mao,82,9
-32526075,Xuhui Meng,82,9
-118188801,Sifan Wang,82,9
-2145494483,Liu Yang,82,9
-2149373363,Lu Lu,82,9
-145401977,M. Raissi,82,9
-3439407,I. Kevrekidis,82,9
-3410970,P. Perdikaris,82,9
-1720124,G. Karniadakis,82,9
-4565995,Kashif Rasul,83,3
-145642373,Han Xiao,83,3
-2742129,Roland Vollgraf,83,3
-143728483,A. Galstyan,84,5
-51997673,Ninareh Mehrabi,84,5
-1782658,Kristina Lerman,84,5
-2775559,Fred Morstatter,84,5
-51884035,N. Saxena,84,5
-3351164,Been Kim,85,2
-1388372395,F. Doshi-Velez,85,2
-1756344,T. Baltrušaitis,86,3
-118242121,Chaitanya Ahuja,86,3
-49933077,Louis-philippe Morency,86,3
-1723945,Vitaly Shmatikov,87,4
-34828439,M. Stronati,87,4
-3469125,Congzheng Song,87,4
-2520493,R. Shokri,87,4
-2183294,W. Woo,88,6
-3008587,Xingjian Shi,88,6
-49528584,Hao Wang,88,6
-1739816,D. Yeung,88,6
-2192200,Zhourong Chen,88,6
-145771919,W. Wong,88,6
-36203548,N. Nathani,89,2
-2302607913,Abhishek Singh,89,2
-52200573,V. Michel,90,17
-1797840,Alexandre Gramfort,90,17
-8493461,B. Thirion,90,17
-27257992,Mathieu Blondel,90,17
-39571582,Ron J. Weiss,90,17
-1710398,E. Duchesnay,90,17
-2958756,O. Grisel,90,17
-2423884,M. Brucher,90,17
-2780213,P. Prettenhofer,90,17
-2067827437,Ron Weiss,90,17
-2081469,J. Vanderplas,90,17
-2570016,Fabian Pedregosa,90,17
-35243423,M. Perrot,90,17
-144720379,Alexandre Passos,90,17
-1881041,Gilles Louppe,90,17
-3025780,G. Varoquaux,90,17
-3084321,D. Cournapeau,90,17
-2259683,E. Duflo,91,7
-144613163,Christian Hansen,91,7
-145607066,J. Robins,91,7
-88741890,Mert Demirer,91,7
-3646527,W. Newey,91,7
-26331346,V. Chernozhukov,91,7
-88741529,D. Chetverikov,91,7
-2208742466,R. Klén,92,3
-5303884,J. Teuho,92,3
-1579855258,O. Rainio,92,3
-46216076,Bradley C. Boehmke,93,2
-35664117,Brandon M. Greenwell,93,2
-9583743,Maria Ruiperez González,94,19
-32830771,E. Ribeiro,94,19
-7549589,Jorge Mendes de Jesus,94,19
-2228185935,Shangguan Wei,94,19
-49399380,N. Batjes,94,19
-3018223,X. Geng,94,19
-9030720,Aleksandar Blagotić,94,19
-145028966,R. MacMillan,94,19
-145253407,G. Heuvelink,94,19
-2924968,Ichsani Wheeler,94,19
-2146245,S. Mantel,94,19
-145669099,M. Guevara,94,19
-3376186,Marvin N. Wright,94,19
-1402912902,B. Bauer-Marschallinger,94,19
-2856207,T. Hengl,94,19
-30504500,M. Kilibarda,94,19
-145632581,R. Vargas,94,19
-4953836,B. Kempen,94,19
-100653750,J. Leenaars,94,19
-2066277988,T. Mitchell,95,2
-1694621,Michael I. Jordan,95,2
-144108062,Jasper Snoek,96,10
-1740145,V. Lempitsky,96,10
-1777528,H. Larochelle,96,10
-2780075,Hana Ajakan,96,10
-1722180,Ryan P. Adams,96,10
-2825246,Yaroslav Ganin,96,10
-2482151,François Laviolette,96,10
-145754674,E. Ustinova,96,10
-31580144,Pascal Germain,96,10
-143858557,M. Marchand,96,10
-2784955,J. Nocedal,97,7
-2198436,Frank E. Curtis,97,7
-1711231,M. Smelyanskiy,97,7
-2205699,Dheevatsa Mudigere,97,7
-144669504,P. T. P. Tang,97,7
-2844898,N. Keskar,97,7
-52184096,L. Bottou,97,7
-1743065,A. Shami,98,2
-1624030637,Li Yang,98,2
-1697867,S. Kotsiantis,99,3
-1582428254,Pantelis Linardatos,99,3
-1753333150,Vasilis Papastefanopoulos,99,3
-145708428,D. Kutra,100,19
-3190177,A. Kreshuk,100,19
-2699111,Jaime I. Cervantes,100,19
-145486652,C. Straehle,100,19
-47829712,Kemal Eren,100,19
-1708103,U. Köthe,100,19
-67091521,A. Wolny,100,19
-2066522012,Thorben Kroeger,100,19
-2057581,Carsten Haubold,100,19
-48275624,S. Berg,100,19
-46478540,T. Beier,100,19
-88997220,M. Rudy,100,19
-1397152727,Fynn Beuttenmueller,100,19
-2834950,Bernhard X. Kausler,100,19
-1725192,Martin Schiegg,100,19
-144560453,J. Ales,100,19
-2111387698,Chong Zhang,100,19
-1685187,F. Hamprecht,100,19
-1968352,Buote Xu,100,19
-2527511,H. Cartwright,101,5
-3300287,K. Butler,101,5
-144485183,A. Walsh,101,5
-48592354,D. Davies,101,5
-2385206,O. Isayev,101,5
-1829456,Y. Lei,102,6
-145720325,A. Nandi,102,6
-2144793979,Xinwei Jiang,102,6
-2118581438,Bin Yang,102,6
-2217450625,Naipeng Li,102,6
-46691607,Feng Jia,102,6
-144865353,B. Pang,103,3
-145810617,Lillian Lee,103,3
-2066721,Shivakumar Vaithyanathan,103,3
-2276425205,Ilan Price,104,12
-2114860628,Jacklynn Stott,104,12
-2276424339,A. El-Kadi,104,12
-2266396481,Matthew Willson,104,12
-2266459752,Remi Lam,104,12
-2266397148,Alvaro Sanchez-Gonzalez,104,12
-2266458515,Ferran Alet,104,12
-23988602,T. Ewalds,104,12
-2054134761,Tom R. Andersson,104,12
-2333886808,Dominic Masters,104,12
-2276486102,Shakir Mohamed,104,12
-2265552107,Peter W. Battaglia,104,12
-144875384,B. R. Noack,105,3
-1802604,P. Koumoutsakos,105,3
-3083169,S. Brunton,105,3
-1800681,Alberto Maria Segre,106,2
-1744109,S. Salzberg,106,2
-1401829700,Shai Ben-David,107,2
-1389955537,S. Shalev-Shwartz,107,2
-1718150,J. Stainer,108,4
-9623412,E. Mhamdi,108,4
-3094352,Peva Blanchard,108,4
-1727558,R. Guerraoui,108,4
-1736370,D. Koller,109,2
-50785579,N. Friedman,109,2
-8230559,Yongxin Tong,110,4
-11573257,Tianjian Chen,110,4
-153096457,Qiang Yang,110,4
-1614034792,Yang Liu,110,4
-1721991,E. Rosten,111,2
-144418842,T. Drummond,111,2
-2108473999,Yupeng Zhang,112,2
-1773836,Payman Mohassel,112,2
-50881145,Lewis Moffat,113,4
-2118729790,David T. Jones,113,4
-2262107,S. Kandathil,113,4
-36526409,Joe G. Greener,113,4
-2087620751,Bahzad Charbuty,114,2
-35323115,A. Abdulazeez,114,2
-3926122,Shanrong Zhao,115,11
-34243620,Parantu K. Shah,115,11
-144357385,M. Spitzer,115,11
-1927408,P. Czodrowski,115,11
-1705442,A. Madabhushi,115,11
-144312222,I. Dunham,115,11
-2166424886,George Lee,115,11
-3793520,J. Vamathevan,115,11
-2185912448,Bin Li,115,11
-2064181672,Edgardo Ferran,115,11
-47420092,Dominic Clark,115,11
-3012649,Christian Janiesch,116,3
-30004936,K. Heinrich,116,3
-2148733,Patrick Zschech,116,3
-1824816,E. Shmueli,117,2
-2130148626,Dana Pessach,117,2
-2143948699,Wantae Kim,118,13
-145230191,Raghav Shroff,118,13
-3210657,A. Ellington,118,13
-47896740,Hongyuan Lu,118,13
-1581626498,Natalie J. Czarnecki,118,13
-2133560828,Daniel J. Acosta,118,13
-2133153248,Hannah O. Cole,118,13
-146482230,Daniel J. Diaz,118,13
-2152822214,Yan Zhang,118,13
-4805394,Nathaniel A. Lynd,118,13
-2133614006,Brad Alexander,118,13
-48532409,H. Alper,118,13
-11308819,Congzhi Zhu,118,13
-3375011,P. Busato,119,5
-3201660,D. Moshou,119,5
-2345652,D. Bochtis,119,5
-145802955,S. Pearson,119,5
-2752858,Konstantinos G. Liakos,119,5
-2247411478,Carl E. Rasmussen,120,2
-2248834664,Christopher K. I. Williams,120,2
-2145962665,Minjie Li,121,4
-2111608481,Wencong Lu,121,4
-2212548000,Xiaobo Ji,121,4
-2046108691,Pengcheng Xu,121,4
-3913651,N. Yardimci,122,7
-143746845,Xing Lin,122,7
-48156295,Y. Rivenson,122,7
-2146359,M. Jarrahi,122,7
-5602194,Yilin Luo,122,7
-2660014,A. Ozcan,122,7
-4901769,Muhammed Veli,122,7
-2257229905,Stephan Hoyer,123,6
-2078196952,Ayya Alieva,123,6
-36397553,M. Brenner,123,6
-2119124568,Jamie A. Smith,123,6
-2274199111,Qing Wang,123,6
-40833997,Dmitrii Kochkov,123,6
-2162220859,Saifur Rahman,124,4
-29413196,James Jin Kang,124,4
-2215360053,Jingwen Zhou,124,4
-2143532704,Qi An,124,4
-1767709,Alexey Radul,125,4
-1700974,Barak A. Pearlmutter,125,4
-1737754,J. Siskind,125,4
-1739503,A. G. Baydin,125,4
-2238323908,Binny S,126,5
-2181974014,Nithin Raj,126,5
-2181966147,Abhishek V A,126,5
-2181972083,Vishal Thomas,126,5
-2181972275,Johan T R,126,5
-145666101,Gustavo E. A. P. A. Batista,127,3
-1793286,R. Prati,127,3
-1737677,M. C. Monard,127,3
-2077989,Rahul C. Deo,128,1
-143724861,Daniel J. Hsu,129,4
-143791100,Siyuan Ma,129,4
-151213231,Soumik Mandal,129,4
-145520115,Mikhail Belkin,129,4
-2262405,Shobha Venkataraman,130,6
-2713842,Brian Knott,130,6
-3407874,Mark Ibrahim,130,6
-144479015,Awni Y. Hannun,130,6
-2264597,Shubho Sengupta,130,6
-1803520,L. Maaten,130,6
-1691955,Eyke Hüllermeier,131,2
-3249834,W. Waegeman,131,2
-151489878,Lesia Semenova,132,5
-2146285954,Haiyang Huang,132,5
-2143786389,Zhi Chen,132,5
-48395540,C. Rudin,132,5
-1750932565,Chudi Zhong,132,5
-2087046300,A. Sagingalieva,133,5
-2214719204,Arsenii Senokosov,133,5
-2202522018,A. Melnikov,133,5
-2225988607,Basil Kyriacou,133,5
-2276611349,Alexander Sedykh,133,5
-2149390974,Jonathan Schmidt,134,4
-143837407,Mário R. G. Marques,134,4
-5517714,S. Botti,134,4
-2342521061,Miguel A. L. Marques,134,4
-1969352,Jeonghwan Gwak,135,3
-2837279,Jaeyong Kang,135,3
-48740398,Z. Ullah,135,3
-2192840743,M. Cerezo,136,5
-2343654,Hsin-Yuan Huang,136,5
-50721537,Patrick J. Coles,136,5
-102620709,Guillaume Verdon,136,5
-49556529,L. Cincio,136,5
-26981228,T. Fadason,137,4
-1395754308,J. O’Sullivan,137,4
-2173960876,N. Pudjihartono,137,4
-2121964257,A. Kempa-Liehr,137,4
-1402123073,Á. Fernández-Leal,138,5
-1403863088,José Bobes-Bascarán,138,5
-1402122878,E. Mosqueira-Rey,138,5
-1403901547,David Alonso-Ríos,138,5
-1401777431,Elena Hernández-Pereira,138,5
-2114292098,Hongqiang Ren,139,7
-39055212,Jiawei Wang,139,7
-2155922215,Lin Ye,139,7
-2143951123,Xiao Yang,139,7
-2241941714,Linyu Zhang,139,7
-1405970378,Mengyuan Zhu,139,7
-2162049908,Bin Wu,139,7
-2136371907,Sebastian Nilsson,140,7
-2056781762,Rik Sarkar,140,7
-35806328,Benedek Rozemberczki,140,7
-2058604454,Lauren Watson,140,7
-2820299,Hao-Tsung Yang,140,7
-2056355686,P. Bayer,140,7
-104031520,Oliver Kiss,140,7
-1687701,A. Joseph,141,5
-39743720,B. Nelson,141,5
-50055322,Ling Huang,141,5
-2064046776,Benjamin I. P. Rubinstein,141,5
-1787610,J. D. Tygar,141,5
-33791144,D. V. Carvalho,142,3
-3698192,Jaime S. Cardoso,142,3
-35153466,E. M. Pereira,142,3
-1944680782,Thomas van Klompenburg,143,3
-2805164,A. Kassahun,143,3
-3213443,C. Catal,143,3
-145229121,Chandan Singh,144,5
-2116415778,Bin Yu,144,5
-19225295,Karl Kumbier,144,5
-144585578,W. James Murdoch,144,5
-1405625449,R. Abbasi-Asl,144,5
-1683268,C. Siew,145,3
-145678691,G. Huang,145,3
-50736254,Qin-Yu Zhu,145,3
-7631063,Stefan Chmiela,146,8
-10667063,H. Sauceda,146,8
-5667638,I. Poltavsky,146,8
-33075217,Kristof T. Schütt,146,8
-5742764,M. Gastegger,146,8
-145034054,K. Müller,146,8
-2462983,A. Tkatchenko,146,8
-9914431,Oliver T. Unke,146,8
-1682058,H. Zhang,147,6
-2068236437,Li-Dong Xiong,147,6
-2109243152,Xiuyun Chen,147,6
-153171583,Jia Wu,147,6
-48136123,S. Deng,147,6
-1878461,Hang Lei,147,6
-1412407676,M. Fadhel,148,10
-145013346,Y. Duan,148,10
-1754598,Jinglan Zhang,148,10
-1410016448,O. Al-Shamma,148,10
-2146732191,José I. Santamaría,148,10
-1409267833,Ayad Al-dujaili,148,10
-144121680,Laith Farhan,148,10
-2281247548,Laith Alzubaidi,148,10
-1412958882,Muthana Al-Amidie,148,10
-2073994643,A. Humaidi,148,10
-152772922,Ludwig Schmidt,149,5
-17775913,Aleksandar Makelov,149,5
-143826246,A. Ma̧dry,149,5
-2869958,Adrian Vladu,149,5
-2754804,Dimitris Tsipras,149,5
-1725285,T. Khoshgoftaar,150,3
-2213731536,Justin M. Johnson,150,3
-150064574,Connor Shorten,150,3
-2681954,Y. Gal,151,3
-47645184,Alex Kendall,151,3
-1744700,Zoubin Ghahramani,151,3
-123637526,B. van Ginneken,152,79
-145388932,J. Laak,152,79
-145774206,Seyed-Ahmad Ahmadi,152,79
-1399194029,Hady Ahmady Phoulady,152,79
-8038506,B. Ginneken,152,79
-2363385063,Jeroen A. W. M. van der Laak,152,79
-145101451,A. Setio,152,79
-9956969,Matt Berseth,152,79
-2552871,Elia Bruni,152,79
-1399194027,Bharti Mungal,152,79
-2071061,Leena Latonen,152,79
-2111244067,Dayong Wang,152,79
-9560760,Oscar G. F. Geessink,152,79
-133700412,Babak Ehteshami Bejnordi,152,79
-2057470566,A. George,152,79
-37793573,M. Hermsen,152,79
-2425520,P. Hufnagl,152,79
-1399194046,Paul Johannes van Diest,152,79
-3556525,F. Beca,152,79
-145653419,C. Hass,152,79
-3049749,Thijs Kooi,152,79
-2556428,A. Khosla,152,79
-3422275,Rishab Gargeya,152,79
-7219708,Quirine F. Manson,152,79
-11992047,V. Khvatkov,152,79
-143613202,F. Ciompi,152,79
-2708651,P. Bult,152,79
-2469581,Mohsen Ghafoorian,152,79
-38931171,S. Demirci,152,79
-1745574,N. Karssemeijer,152,79
-34262128,Mira Valkonen,152,79
-30740587,Rui Venâncio,152,79
-50028365,M. Veta,152,79
-145600181,I. Serrano,152,79
-1742773,Daniel Racoceanu,152,79
-2229652,N. Rajpoot,152,79
-3049234,K. Sirinukunwattana,152,79
-1762919,Quanzheng Li,152,79
-1714602,P. Heng,152,79
-2309470915,N. Stathonikos,152,79
-46894050,M. Shaban,152,79
-48561119,Humayun Irshad,152,79
-39412069,Y. Tsang,152,79
-1398036218,Mustafa Ümit Öner,152,79
-2095652,Andrew H. Beck,152,79
-32638887,A. Vylegzhanin,152,79
-134488174,M. V. van Dijk,152,79
-1398297580,M. Fernández-Carrobles,152,79
-3277637,Huangjing Lin,152,79
-1949614,P. Ruusuvuori,152,79
-2074828638,Quincy Wong,152,79
-145587209,N. Navab,152,79
-2954103,B. Bejnordi,152,79
-101903368,R. Cetin-Atalay,152,79
-40031925,Oren Z. Kraus,152,79
-1915922,Ruqayya Awan,152,79
-40153228,Aoxiao Zhong,152,79
-1877512,Fausto Milletarì,152,79
-36057816,Kaisa Liimatainen,152,79
-35532030,S. Seno,152,79
-22699273,V. Liauchuk,152,79
-2149050162,Hao Chen,152,79
-145959882,G. Litjens,152,79
-66191732,O. Deniz,152,79
-2824435,K. Kartasalo,152,79
-35647880,Q. Dou,152,79
-145395725,U. Halici,152,79
-35009507,H. Matsuda,152,79
-3098247,Shadi Albarqouni,152,79
-145382775,M. Balkenhol,152,79
-145554191,David Tellez,152,79
-144085811,C. I. Sánchez,152,79
-117276028,Seiryo Watanabe,152,79
-3048811,Y. Takenaka,152,79
-144923641,G. Bueno,152,79
-144427518,V. Kovalev,152,79
-36460089,A. Kalinovsky,152,79
-150138704,Jonas Annuscheit,152,79
-3493677,Talha Qaiser,152,79
-1728382,Joachim Denzler,153,7
-1764912,Prabhat,153,7
-116377499,N. Carvalhais,153,7
-2530948,M. Reichstein,153,7
-121696502,B. Stevens,153,7
-1397959153,Gustau Camps-Valls,153,7
-95799904,M. Jung,153,7
-1748808,Xindong Wu,154,3
-51132438,Shou-tao Xu,154,3
-33698309,Zhong-Qiu Zhao,154,3
-1764301,A. Kamilaris,155,2
-1398263014,F. Prenafeta-Boldú,155,2
-3046313,M. Salathé,156,3
-2068146094,David P. Hughes,156,3
-24178944,S. Mohanty,156,3
-1811430,Subhashini Venugopalan,157,15
-3423678,R. Kim,157,15
-47191829,D. Webster,157,15
-49506408,L. Peng,157,15
-2035210,R. Raman,157,15
-10688956,T. Madams,157,15
-2057376568,Philip Nelson,157,15
-2229081,Marc Coram,157,15
-3236386,Varun Gulshan,157,15
-5791678,J. Mega,157,15
-2924473,Martin C. Stumpe,157,15
-50162175,Jorge A Cuadros,157,15
-50484974,Arunachalam Narayanaswamy,157,15
-10777941,Kasumi Widner,157,15
-97874426,Derek J. Wu,157,15
-2343609447,Xingbang Hao,158,3
-8273966,Guigang Zhang,158,3
-2118869556,Shang Ma,158,3
-144914140,Hao Su,159,5
-2216377,Kaichun Mo,159,5
-47782132,L. Yi,159,5
-144329939,C. Qi,159,5
-51352814,L. Guibas,159,5
-2421012,G. Zhong,160,3
-145429878,Hui Yu,160,3
-4427645,Zhaoyang Niu,160,3
-1750924,Demetri Terzopoulos,161,6
-29905643,F. Porikli,161,6
-2164604,Shervin Minaee,161,6
-30567641,N. Kehtarnavaz,161,6
-143767945,A. Plaza,161,6
-1692688,Yuri Boykov,161,6
-150282231,R. Ragotte,162,22
-2168033577,P. J. Leung,162,22
-6135880,A. Bera,162,22
-2118773845,D. Baker,162,22
-2067573099,H. Bai,162,22
-2160034551,N. Bennett,162,22
-3175827,I. Anishchenko,162,22
-2163188451,N. Bethel,162,22
-5198610,B. Koepnick,162,22
-3802539,D. Tischer,162,22
-8672839,A. Courbet,162,22
-35318911,J. Dauparas,162,22
-3741725,L. Milles,162,22
-2063965257,A. Kang,162,22
-2143533108,F. Chan,162,22
-2290127622,H. Nguyen,162,22
-14938784,S. Pellock,162,22
-12909814,N. King,162,22
-5517739,T. Huddy,162,22
-50616282,B. Wicky,162,22
-6126402,B. Sankaran,162,22
-118290811,R. D. de Haas,162,22
-2318564,G. Forestier,163,5
-145344693,Pierre-Alain Muller,163,5
-152947675,J. Weber,163,5
-19302914,Hassan Ismail Fawaz,163,5
-3482237,L. Idoumghar,163,5
-2268315391,Gowoon Cheon,164,6
-2268751984,Simon Batzner,164,6
-8132903,E. D. Cubuk,164,6
-7995028,M. Aykol,164,6
-2601641,S. Schoenholz,164,6
-1411034322,Amil Merchant,164,6
-1806369,Eftychios E. Protopapadakis,165,4
-120205775,N. Doulamis,165,4
-2594647,A. Voulodimos,165,4
-1746705,A. Doulamis,165,4
-47079359,Ananya Ganesh,166,3
-2268272,Emma Strubell,166,3
-143753639,A. McCallum,166,3
-30043065,Aarti Bagul,167,12
-4204731,M. Lungren,167,12
-145951921,Brandon Yang,167,12
-15069782,Tony Duan,167,12
-2706258,Pranav Rajpurkar,167,12
-2356307,C. Langlotz,167,12
-34699434,A. Ng,167,12
-29972904,Kaylie Zhu,167,12
-51235411,D. Ding,167,12
-3474704,K. Shpanskaya,167,12
-46559852,J. Irvin,167,12
-3776937,Hershel Mehta,167,12
-2676247,Mang Ye,168,6
-145406421,T. Xiang,168,6
-1741126,S. Hoi,168,6
-144082425,Ling Shao,168,6
-2004689620,Gaojie Lin,168,6
-145953515,Jianbing Shen,168,6
-10662951,V. Khrulkov,169,4
-102481418,Yu. V. Gorishniy,169,4
-143743802,Artem Babenko,169,4
-2114431113,Ivan Rubachev,169,4
-1736651,S. Levine,170,5
-1689992,P. Abbeel,170,5
-2587648,Tuomas Haarnoja,170,5
-35499972,Aurick Zhou,170,5
-46881670,Chelsea Finn,170,5
-2345823,M. Tangermann,171,9
-2106871731,Wolfram Burgard,171,9
-1704186,L. Fiederer,171,9
-144661829,F. Hutter,171,9
-9948572,R. Schirrmeister,171,9
-2607675,Katharina Eggensperger,171,9
-2060551,Jost Tobias Springenberg,171,9
-145928182,T. Ball,171,9
-9936842,Martin Glasstetter,171,9
-4220315,D. Klimstra,172,10
-4703080,E. Brogi,172,10
-151089695,Luke Geneslaw,172,10
-34459632,Thomas J. Fuchs,172,10
-30582790,V. Reuter,172,10
-5024665,K. Busam,172,10
-151250454,Vitor Werneck Krauss Silva,172,10
-6806239,M. Hanna,172,10
-9959596,Allen P. Miraflor,172,10
-32589702,Gabriele Campanella,172,10
-2101139,Amitai Armon,173,2
-1411405900,Ravid Shwartz-Ziv,173,2
-2109194747,Wenyu Liu,174,13
-2118834541,Yang Zhao,174,13
-144025674,Bin Xiao,174,13
-51151760,Borui Jiang,174,13
-2443233,Xinggang Wang,174,13
-145353089,Yadong Mu,174,13
-1688516,Jingdong Wang,174,13
-50439333,Dong Liu,174,13
-143819050,Ke Sun,174,13
-41036094,Chaorui Deng,174,13
-2823637,Mingkui Tan,174,13
-46806979,Tianheng Cheng,174,13
-1718355,Dong Liu,174,13
-35064352,Earlence Fernandes,175,12
-1769675,T. Kohno,175,12
-145416145,Amir Rahmati,175,12
-49428285,Atul Prakash,175,12
-2118484320,Chang Liu,175,12
-1425082935,Xinyun Chen,175,12
-2723309,Chaowei Xiao,175,12
-22229139,I. Evtimov,175,12
-2165245296,Bo Li,175,12
-143711382,D. Song,175,12
-2070276866,K. Lu,175,12
-1825256,Kevin Eykholt,175,12
-1688355,P. Suganthan,176,4
-2087098860,Minghui Hu,176,4
-2066496169,M. Tanveer,176,4
-151113774,M. A. Ganaie,176,4
-6609396,K. Farh,177,17
-6084178,Jack A. Kosmicki,177,17
-1816298,David G. Knowles,177,17
-51131068,J. McRae,177,17
-4467970,S. Darbandi,177,17
-2154897187,Yang I. Li,177,17
-144251423,Amirali Kia,177,17
-2108917596,Hong Gao,177,17
-2552403,S. Batzoglou,177,17
-2842877,Wenwu Cui,177,17
-51423920,Juan Arbelaez,177,17
-37428998,E. Kanterakis,177,17
-143784287,Kishore Jaganathan,177,17
-3458649,Sofia Panagiotopoulou,177,17
-40986133,Grace B. Schwartz,177,17
-4493069,Stephan J Sanders,177,17
-1872365,E. Chow,177,17
-144067957,K. Mao,178,6
-48319740,Peng Wang,178,6
-35374692,Ruqiang Yan,178,6
-1700762,R. Gao,178,6
-49832912,Rui Zhao,178,6
-48354147,Zhenghua Chen,178,6
-1749686,J. Hoydis,179,2
-1388350203,Tim O'Shea,179,2
-1831933,Justin A. Sirignano,180,2
-2113552,K. Spiliopoulos,180,2
-2990741,Jan Leike,181,6
-145791315,P. Christiano,181,6
-26890260,Miljan Martic,181,6
-2330246606,Dario Amodei,181,6
-31035595,Tom B. Brown,181,6
-34313265,S. Legg,181,6
-2109078658,Ammar Mohammed,182,2
-1396728373,Rania Kora,182,2
-39773686,Yunjin Chen,183,10
-40426020,P. Li,183,10
-1803714,Deyu Meng,183,10
-1724520,W. Zuo,183,10
-144281199,Q. Hu,183,10
-36685537,Lei Zhang,183,10
-49110790,Qilong Wang,183,10
-1387668229,Banggu Wu,183,10
-2055691681,Peng Fei Zhu,183,10
-144110274,K. Zhang,183,10
-32499031,Khushnood Abbas,184,3
-2152209342,Ping Wang,184,3
-51309902,S. Dong,184,3
-144718788,L. Deng,185,2
-144580027,Dong Yu,185,2
-13964487,J. Dudley,186,5
-1682816,Fei Wang,186,5
-1935336,Xiaoqian Jiang,186,5
-1829350,Riccardo Miotto,186,5
-49184748,Shuang Wang,186,5
-3050154,Haichen Shen,187,9
-1913774,Tianqi Chen,187,9
-2621619,Eddie Q. Yan,187,9
-1717411,L. Ceze,187,9
-1732910,Ziheng Jiang,187,9
-49994783,Yuwei Hu,187,9
-47108160,T. Moreau,187,9
-1730156,Carlos Guestrin,187,9
-144695691,A. Krishnamurthy,187,9
-83122795,Farhad Shiri,188,4
-143866399,N. Mustapha,188,4
-143862325,T. Perumal,188,4
-39509289,Raihani Mohamed,188,4
-8223433,Devamanyu Hazarika,189,4
-2061649994,Tom Young,189,4
-1746416,Soujanya Poria,189,4
-49943757,E. Cambria,189,4
-143604406,B. Juang,190,4
-66320873,Huiqiang Xie,190,4
-67022972,Zhijin Qin,190,4
-1410112765,Geoffrey Y. Li,190,4
-3127283,Piotr Dollár,191,12
-144035504,Z. Tu,191,12
-3080683,Shaoqing Ren,191,12
-1781242,Abhinav Shrivastava,191,12
-2983898,Ross B. Girshick,191,12
-1771551,X. Zhang,191,12
-1817030,Saining Xie,191,12
-39849136,X. Wang,191,12
-39353098,Kaiming He,191,12
-1726095131,A. Gupta,191,12
-2108498897,Saurabh Singh,191,12
-1491624845,Chen Sun,191,12
-1688587,Haojin Yang,192,3
-35593430,Mina Rezaei,192,3
-1708312,C. Meinel,192,3
-2059611649,C. Krauss,193,2
-2113706378,Thomas G. Fischer,193,2
-2124950899,Jonathan Li,194,4
-8324144,Zilong Zhong,194,4
-145261912,M. Chapman,194,4
-40455111,Zhiming Luo,194,4
-1759420,B. Chaudhuri,195,3
-2108384213,S. Singh,195,3
-34992579,S. Dubey,195,3
-3341722,Alexandra Peste,196,5
-1713648,T. Hoefler,196,5
-1402921119,Tal Ben-Nun,196,5
-2134146,Nikoli Dryden,196,5
-3311387,Dan Alistarh,196,5
-2111316339,Zhifeng Li,197,4
-3393556,Kaipeng Zhang,197,4
-145357606,Yandong Wen,197,4
-143970608,Y. Qiao,197,4
-2235319232,A. R. Gallanl,198,9
-2420590721,Slephen Ellner,198,9
-2255263286,S. Ellner,198,9
-2235318808,Daniel Mccaftrey,198,9
-2235318806,Douglas Nychkatl,198,9
-144117841,A. Gallant,198,9
-2229412488,Neural Networks,198,9
-2056958855,D. McCaffrey,198,9
-2235333426,Douglas Nychkat,198,9
-2612392,M. Andreetto,199,7
-2717876,Menglong Zhu,199,7
-2108301072,Weijun Wang,199,7
-144727050,Andrew G. Howard,199,7
-2595180,Hartwig Adam,199,7
-2741985,Dmitry Kalenichenko,199,7
-47447630,Tobias Weyand,199,7
-7446832,Kilian Q. Weinberger,200,4
-10804137,Geoff Pleiss,200,4
-144993411,Chuan Guo,200,4
-2117103358,Yu Sun,200,4
-50810629,Franck Gabriel,201,3
-51034104,Arthur Jacot,201,3
-100474520,Clément Hongler,201,3
-144019071,Philip S. Yu,202,6
-31370754,Fengwen Chen,202,6
-2585415,Shirui Pan,202,6
-2109557884,Zonghan Wu,202,6
-48934799,Chengqi Zhang,202,6
-2062835,Guodong Long,202,6
-32097919,Terrance Devries,203,2
-144639556,Graham W. Taylor,203,2
-1785654,Changhua Hu,204,4
-2111509432,Yong Yu,204,4
-2134450193,Xiaosheng Si,204,4
-50561595,Jian-xun Zhang,204,4
-3443627,Cheng Yang,205,6
-2621696,Zhengyan Zhang,205,6
-49293587,Zhiyuan Liu,205,6
-1753344,Maosong Sun,205,6
-52297757,Ganqu Cui,205,6
-48128428,Jie Zhou,205,6
-25581960,Jonathan Frankle,206,2
-1701041,Michael Carbin,206,2
-145394689,D. Wagner,207,2
-2365115787,Nicholas Carlini,207,2
-153035664,Fan Liu,208,5
-2124888052,Wenjie Yang,208,5
-2109963918,Zewen Li,208,5
-2151548704,Jun Zhou,208,5
-1612537626,Shouheng Peng,208,5
-2554362,R. Yamashita,209,4
-3421183,M. Nishio,209,4
-2459558,K. Togashi,209,4
-152271968,R. Do,209,4
-143887493,Mohammad Rastegari,210,4
-2004053,Vicente Ordonez,210,4
-143787583,Ali Farhadi,210,4
-40497777,J. Redmon,210,4
-33054064,Alhussein Fawzi,211,3
-1703189,P. Frossard,211,3
-1403182206,Seyed-Mohsen Moosavi-Dezfooli,211,3
-83168939,B. Krose,212,2
-1715782,Patrick van der Smagt,212,2
-3000984,Amir Shahroudy,213,11
-2117909575,Gang Wang,213,11
-2521776,Bing Shuai,213,11
-2144802333,Xingxing Wang,213,11
-2108329894,Zhenhua Wang,213,11
-40894914,Tsuhan Chen,213,11
-1688642,Jianfei Cai,213,11
-2115433449,Ting Liu,213,11
-2174964,Jiuxiang Gu,213,11
-2139431,Lianyang Ma,213,11
-2391723497,Jason Kuen,213,11
-1694199,R. Sukthankar,214,6
-152456068,Thomas Leung,214,6
-2354728,A. Karpathy,214,6
-48004138,Li Fei-Fei,214,6
-152821938,Sanketh Shetty,214,6
-1805076,G. Toderici,214,6
-1950815,Tien-Ju Yang,215,4
-1775477,J. Emer,215,4
-1691305,V. Sze,215,4
-50579876,Yu-hsin Chen,215,4
-1491240545,Zhilu Zhang,216,2
-2369409,M. Sabuncu,216,2
-9629738,Ronald Kemker,217,5
-3290098,Christopher Kanan,217,5
-2988592,G. I. Parisi,217,5
-1736513,Stefan Wermter,217,5
-22654433,Jose L. Part,217,5
-23690960,A. Sohail,218,4
-8852220,Aqsa Saeed Qureshi,218,4
-2108486220,Asifullah Khan,218,4
-66666770,Umme Zahoora,218,4
-3422291,Daniel DeTone,219,4
-39863668,A. Rabinovich,219,4
-3045340,Tomasz Malisiewicz,219,4
-51435497,Paul-Edouard Sarlin,219,4
-145392524,Ryan Nash,220,2
-1399833554,K. O’Shea,220,2
-39813007,JunYoung Gwak,221,3
-2144103,C. Choy,221,3
-1702137,S. Savarese,221,3
-51028255,P. Micaelli,222,4
-1728216,A. Storkey,222,4
-2063959275,Antreas Antoniou,222,4
-1697755,Timothy M. Hospedales,222,4
-65928943,E. Hoogeboom,223,3
-1678311,M. Welling,223,3
-73240341,Victor Garcia Satorras,223,3
-150138001,Jay K. Adams,224,3
-3138425,Emre Sargin,224,3
-2072136504,Paul Covington,224,3
-143808204,R. Srikant,225,3
-1527103472,Yixuan Li,225,3
-3075943,Shiyu Liang,225,3
-145842938,Faustino J. Gomez,226,4
-143913738,Santiago Fernández,226,4
-2251771699,Alex Graves,226,4
-2260653300,Jürgen Schmidhuber,226,4
-2257253563,R. Salakhutdinov,227,2
-2257162780,Geoffrey E. Hinton,227,2
-1453548521,Rudolph Triebel,228,14
-2124880868,Anna M. Kruspe,228,14
-1486494981,Cedrique Rovile Njieutcheu Tassi,228,14
-2118032380,Jianxiang Feng,228,14
-2329051,Jongseo Lee,228,14
-2121300248,Wen Yang,228,14
-2051285705,Mohsin Ali,228,14
-2054660189,P. Jung,228,14
-46525320,R. Roscher,228,14
-1740759,R. Bamler,228,14
-46875441,Xiaoxiang Zhu,228,14
-1380493607,M. Shahzad,228,14
-1753619041,Matthias Humt,228,14
-2051292610,J. Gawlikowski,228,14
-50559722,Dawei Yin,229,7
-47009435,Yao Ma,229,7
-2145051005,Yuan He,229,7
-1930238,Qing Li,229,7
-41031455,Wenqi Fan,229,7
-2109917536,Y. Zhao,229,7
-1736632,Jiliang Tang,229,7
-3308557,Sepp Hochreiter,230,8
-1994964,G. Klambauer,230,8
-40464924,Simon Kornblith,230,8
-2145179541,Chiyuan Zhang,230,8
-40297238,M. Raghu,230,8
-2465270,Thomas Unterthiner,230,8
-144831680,Andreas Mayr,230,8
-2841331,Alexey Dosovitskiy,230,8
-18113195,Onur Avcı,231,6
-1715200,M. Gabbouj,231,6
-1741196,S. Kiranyaz,231,6
-73777322,T. Ince,231,6
-144878341,D. Inman,231,6
-22214231,Osama Abdeljaber,231,6
-50875121,Xiangyu Zhang,232,2
-39838894,Yihui He,232,2
-32749516,M. Buda,233,3
-1801052,A. Maki,233,3
-1786177,M. Mazurowski,233,3
-3255268,L. Akoglu,234,6
-50077183,Jiong Zhu,234,6
-21613538,Lingxiao Zhao,234,6
-2479152,Danai Koutra,234,6
-35505461,Mark Heimann,234,6
-7957569,Yujun Yan,234,6
-3460027,Yuanshun Yao,235,7
-40959657,Shawn Shan,235,7
-2081795,Bolun Wang,235,7
-145970007,Ben Y. Zhao,235,7
-34824488,Bimal Viswanath,235,7
-49403971,Huiying Li,235,7
-2704852,Haitao Zheng,235,7
-47197274,Zenghui Wang,236,2
-25168273,Waseem Rawat,236,2
-2939803,R. Collobert,237,2
-145183709,J. Weston,237,2
-11754930,Aleksandar Bojchevski,238,3
-51516539,Johannes Klicpera,238,3
-3075189,Stephan Günnemann,238,3
-4137433,J. Slattery,239,5
-2058057862,S. Dodds,239,5
-2095059657,P. Littlejohns,239,5
-5985187,D. Signorini,239,5
-51934565,V. Lane,239,5
-2114739960,Alex Evans,240,4
-1822833,Christoph Schied,240,4
-2228259568,T. Müller,240,4
-145661463,A. Keller,240,4
-145134808,I. Frosio,241,4
-2146232688,Hang Zhao,241,4
-2281034686,Jan Kautz,241,4
-39775678,O. Gallo,241,4
-1895356,D. Ciresan,242,3
-2514691,U. Meier,242,3
-145341374,J. Schmidhuber,242,3
-9527255,Yixin Chen,243,2
-3098251,Muhan Zhang,243,2
-1699040,D. Dill,244,5
-2275756,Mykel J. Kochenderfer,244,5
-1680661,Clark W. Barrett,244,5
-145533911,Kyle D. Julian,244,5
-40348902,Guy Katz,244,5
+2310506836,Valery V. Kosulin,9,3
+2335370855,Ana Zizaeva,9,3
+47941411,Pete Warden,10,142
+3050846,Alban Desmaison,10,142
+39793298,Sam Gross,10,142
+3029482,L. Antiga,10,142
+2060655766,G. Irving,10,142
+144061974,P. Mcdaniel,10,142
+2827616,Quoc V. Le,10,142
+1473151134,Andreas Köpf,10,142
+50730596,Zakaria Haque,10,142
+2052812305,E. Yang,10,142
+2213433382,A. Karthikesalingam,10,142
+2064995505,G. Anderson,10,142
+2084098271,Greg S. Corrado,10,142
+2152198093,Xiaoqiang Zheng,10,142
+2545358,Z. Chen,10,142
+20154699,D. Murray,10,142
+49959210,J. Dean,10,142
+40527594,Lukasz Kaiser,10,142
+36347083,Andy Davis,10,142
+144867807,S. Thrun,10,142
+41203992,Alykhan Tejani,10,142
+2268759673,Karan Singhal,10,142
+37413761,M. Ispir,10,142
+34521172,Sarvar Patel,10,142
+3089272,R. Monga,10,142
+48738717,C. Citro,10,142
+1789737,Jonathon Shlens,10,142
+2446263,M. DePristo,10,142
+2055400243,Wei Chai,10,142
+1695689,Geoffrey E. Hinton,10,142
+52326632,Christopher Semturs,10,142
+40151244,Shekoofeh Azizi,10,142
+1944541,R. Józefowicz,10,142
+1688882,Yann LeCun,10,142
+1780892,S. Ghemawat,10,142
+2268760043,S. Mahdavi,10,142
+2057642721,Martín Abadi,10,142
+2053781980,Vijay Vasudevan,10,142
+2072422622,Vladimir Ivanov,10,142
+30415265,Dandelion Mané,10,142
+1811529,A. Esteva,10,142
+2108406634,Jianmin Chen,10,142
+2266472373,Anil Palepu,10,142
+2217861514,Amy Wang,10,142
+1878835,Daniel Ramage,10,142
+2279021635,Khaled Saab,10,142
+2059271276,Trevor Killeen,10,142
+4908509,Ben Kreuter,10,142
+7999018,Brett Kuprel,10,142
+145712106,Volodymyr Kuleshov,10,142
+35210462,Kunal Talwar,10,142
+2212030,Antonio Marcedone,10,142
+2445241,E. Brevdo,10,142
+10685155,Mike Schaekermann,10,142
+145233583,M. Wattenberg,10,142
+2073806959,Tushar Chandra,10,142
+152599430,Lu Fang,10,142
+2217278,Lichan Hong,10,142
+2090818,M. Isard,10,142
+2064203013,Aaron Segal,10,142
+1861312,Azalia Mirhoseini,10,142
+144758007,P. Barham,10,142
+2269258459,Le Hou,10,142
+2244651851,Tao Tu,10,142
+20048351,Vihan Jain,10,142
+1680133,S. Jha,10,142
+3369421,J. Levenberg,10,142
+2064102917,A. Harp,10,142
+3480712,Ryutaro Tanno,10,142
+2055632320,Katherine Chou,10,142
+145139947,M. Devin,10,142
+2052275005,Claire Cui,10,142
+2279162093,Brenna Li,10,142
+2078528337,Ashish Agarwal,10,142
+2364487,Alexandre Robicquet,10,142
+2061550,Heng-Tze Cheng,10,142
+2113829116,Junjie Bai,10,142
+37397407,J. Ko,10,142
+1689108,O. Vinyals,10,142
+3312922,H. Aradhye,10,142
+2127604,Soumith Chintala,10,142
+1977806,Adam Lerer,10,142
+2066076307,Jeremiah Harmsen,10,142
+145591745,Ilya Mironov,10,142
+144231976,A. Swami,10,142
+144223091,Vivek Natarajan,10,142
+2117163698,Yuan Yu,10,142
+145057514,H. B. McMahan,10,142
+2213266,Nenad Tomašev,10,142
+1942300,M. Kudlur,10,142
+2367796356,Nicolas Papernot,10,142
+144375552,Sherry Moore,10,142
+2378027,Bharath Ramsundar,10,142
+2279022140,Jan Freyberg,10,142
+2269148145,Kavita Kulkarni,10,142
+3213968,H. Blau,10,142
+3370429,Zeming Lin,10,142
+2253681376,Zachary DeVito,10,142
+2657155,Vincent Vanhoucke,10,142
+2291172852,Albert Webson,10,142
+48448318,J. Dean,10,142
+2065251344,James Bradbury,10,142
+120805419,Mingxing Tan,10,142
+2152832173,Li Zhang,10,142
+4648200,S. Swetter,10,142
+1403239967,Francisco Massa,10,142
+144643812,Z. Celik,10,142
+2051681709,Juraj Gottweis,10,142
+153440022,I. Goodfellow,10,142
+39978391,Yangqing Jia,10,142
+2080690,P. Tucker,10,142
+2108113547,Xiaoqiang Zhang,10,142
+5347246,R. Novoa,10,142
+1846258,Noam Shazeer,10,142
+144927151,M. Schuster,10,142
+34185195,Karn Seth,10,142
+22236100,Sasank Chilamkurthy,10,142
+3296031,T. Shaked,10,142
+2357599490,C. Olah,10,142
+32163737,Benoit Steiner,10,142
+1701686,I. Sutskever,10,142
+40338695,L. Koc,10,142
+1765169,F. Viégas,10,142
+32131713,G. Corrado,10,142
+2329784607,H. Shah,10,142
+2298901106,E. Vedadi,10,142
+2224893214,Mohamed Amin,10,142
+2269147696,Joelle K. Barral,10,142
+2109059862,Xiaobing Liu,10,142
+2269173133,Yong Cheng,10,142
+10707709,Martin Raison,10,142
+2275364713,Krzysztof Maziarz,10,142
+1396184193,Andy Chu,10,142
+3365851,N. Gimelshein,10,142
+1508890387,Rohan Anil,10,142
+2039588,Keith Bonawitz,10,142
+2269148232,Yossi Matias,10,142
+114250963,Gregory Chanan,10,142
+1751762,Yoshua Bengio,10,142
+35078078,M. Wicke,10,142
+3407277,Adam Paszke,10,142
+2269148566,Katherine Chou,10,142
+2350447013,Andrew Nguyen,11,2
+72729174,Rajeev Ronanki,11,2
+1807005,V. C. Müller,12,2
+2193691,N. Bostrom,12,2
+2341465150,Yunfang Yu,13,9
+2336957677,Kang Zhang,13,9
+2321665003,Joseph Wu,13,9
+2341320480,Xiaokun Li,13,9
+2144996119,Shengyong Yang,13,9
+2115568943,Yifei Wang,13,9
+2150439478,Xin Yang,13,9
+2341278744,Gen Li,13,9
+2257481824,Niu Huang,13,9
+144264986,Zhijian Lin,14,3
+47978704,Pingping Chen,14,3
+1669767608,Lijia Chen,14,3
+145401977,M. Raissi,15,7
+1720124,G. Karniadakis,15,7
+3439407,I. Kevrekidis,15,7
+2145494483,Liu Yang,15,7
+3410970,P. Perdikaris,15,7
+2149373363,Lu Lu,15,7
+118188801,Sifan Wang,15,7
+145642373,Han Xiao,16,3
+4565995,Kashif Rasul,16,3
+2742129,Roland Vollgraf,16,3
+1782658,Kristina Lerman,17,5
+143728483,A. Galstyan,17,5
+51997673,Ninareh Mehrabi,17,5
+2775559,Fred Morstatter,17,5
+51884035,N. Saxena,17,5
+3351164,Been Kim,18,2
+1388372395,F. Doshi-Velez,18,2
+1756344,T. Baltrušaitis,19,3
+49933077,Louis-philippe Morency,19,3
+118242121,Chaitanya Ahuja,19,3
+2520493,R. Shokri,20,4
+1723945,Vitaly Shmatikov,20,4
+34828439,M. Stronati,20,4
+3469125,Congzheng Song,20,4
+3008587,Xingjian Shi,21,6
+145771919,W. Wong,21,6
+49528584,Hao Wang,21,6
+2183294,W. Woo,21,6
+2192200,Zhourong Chen,21,6
+1739816,D. Yeung,21,6
+36203548,N. Nathani,22,2
+2302607913,Abhishek Singh,22,2
+1797840,Alexandre Gramfort,23,17
+2570016,Fabian Pedregosa,23,17
+3025780,G. Varoquaux,23,17
+3084321,D. Cournapeau,23,17
+2423884,M. Brucher,23,17
+35243423,M. Perrot,23,17
+39571582,Ron J. Weiss,23,17
+2780213,P. Prettenhofer,23,17
+2081469,J. Vanderplas,23,17
+1881041,Gilles Louppe,23,17
+2958756,O. Grisel,23,17
+52200573,V. Michel,23,17
+27257992,Mathieu Blondel,23,17
+144720379,Alexandre Passos,23,17
+2067827437,Ron Weiss,23,17
+8493461,B. Thirion,23,17
+1710398,E. Duchesnay,23,17
+46216076,Bradley C. Boehmke,24,2
+35664117,Brandon M. Greenwell,24,2
+88741529,D. Chetverikov,25,7
+26331346,V. Chernozhukov,25,7
+144613163,Christian Hansen,25,7
+3646527,W. Newey,25,7
+88741890,Mert Demirer,25,7
+145607066,J. Robins,25,7
+2259683,E. Duflo,25,7
+7886986,Fabian Isensee,26,5
+51433108,P. Jaeger,26,5
+1397951928,Klaus Hermann Maier-Hein,26,5
+152800798,Jens Petersen,26,5
+51011129,Simon A. A. Kohl,26,5
+2073994643,A. Humaidi,27,10
+1410016448,O. Al-Shamma,27,10
+2281247548,Laith Alzubaidi,27,10
+1409267833,Ayad Al-dujaili,27,10
+1412407676,M. Fadhel,27,10
+144121680,Laith Farhan,27,10
+1754598,Jinglan Zhang,27,10
+1412958882,Muthana Al-Amidie,27,10
+2146732191,José I. Santamaría,27,10
+145013346,Y. Duan,27,10
+152772922,Ludwig Schmidt,28,5
+2869958,Adrian Vladu,28,5
+17775913,Aleksandar Makelov,28,5
+143826246,A. Ma̧dry,28,5
+2754804,Dimitris Tsipras,28,5
+150064574,Connor Shorten,29,2
+1725285,T. Khoshgoftaar,29,2
+1744700,Zoubin Ghahramani,30,3
+47645184,Alex Kendall,30,3
+2681954,Y. Gal,30,3
+2068891,Alexander Mathis,31,7
+144440610,V. Murthy,31,7
+1731199,M. Bethge,31,7
+50283382,Kevin M. Cury,31,7
+41020817,P. Mamidanna,31,7
+39107109,Taiga Abe,31,7
+4058359,Mackenzie W. Mathis,31,7
+145388932,J. Laak,32,9
+145101451,A. Setio,32,9
+8038506,B. Ginneken,32,9
+144085811,C. I. Sánchez,32,9
+2954103,B. Bejnordi,32,9
+145959882,G. Litjens,32,9
+2469581,Mohsen Ghafoorian,32,9
+3049749,Thijs Kooi,32,9
+143613202,F. Ciompi,32,9
+2530948,M. Reichstein,33,7
+121696502,B. Stevens,33,7
+1728382,Joachim Denzler,33,7
+1764912,Prabhat,33,7
+1397959153,Gustau Camps-Valls,33,7
+116377499,N. Carvalhais,33,7
+95799904,M. Jung,33,7
+51132438,Shou-tao Xu,34,3
+33698309,Zhong-Qiu Zhao,34,3
+1748808,Xindong Wu,34,3
+1398263014,F. Prenafeta-Boldú,35,2
+1764301,A. Kamilaris,35,2
+3046313,M. Salathé,36,3
+2068146094,David P. Hughes,36,3
+24178944,S. Mohanty,36,3
+47191829,D. Webster,37,15
+3423678,R. Kim,37,15
+3236386,Varun Gulshan,37,15
+49506408,L. Peng,37,15
+2035210,R. Raman,37,15
+5791678,J. Mega,37,15
+50484974,Arunachalam Narayanaswamy,37,15
+10688956,T. Madams,37,15
+2229081,Marc Coram,37,15
+2924473,Martin C. Stumpe,37,15
+10777941,Kasumi Widner,37,15
+1811430,Subhashini Venugopalan,37,15
+50162175,Jorge A Cuadros,37,15
+2057376568,Philip Nelson,37,15
+97874426,Derek J. Wu,37,15
+144117841,A. Gallant,38,9
+2235318806,Douglas Nychkatl,38,9
+2420590721,Slephen Ellner,38,9
+2056958855,D. McCaffrey,38,9
+2229412488,Neural Networks,38,9
+2255263286,S. Ellner,38,9
+2235319232,A. R. Gallanl,38,9
+2235333426,Douglas Nychkat,38,9
+2235318808,Daniel Mccaftrey,38,9
+2595180,Hartwig Adam,39,7
+2108301072,Weijun Wang,39,7
+2717876,Menglong Zhu,39,7
+47447630,Tobias Weyand,39,7
+2741985,Dmitry Kalenichenko,39,7
+144727050,Andrew G. Howard,39,7
+2612392,M. Andreetto,39,7
+2117103358,Yu Sun,40,4
+7446832,Kilian Q. Weinberger,40,4
+144993411,Chuan Guo,40,4
+10804137,Geoff Pleiss,40,4
+50810629,Franck Gabriel,41,3
+51034104,Arthur Jacot,41,3
+100474520,Clément Hongler,41,3
+144281199,Q. Hu,42,6
+1387668229,Banggu Wu,42,6
+1724520,W. Zuo,42,6
+49110790,Qilong Wang,42,6
+2055691681,Peng Fei Zhu,42,6
+40426020,P. Li,42,6
+2109557884,Zonghan Wu,43,6
+2585415,Shirui Pan,43,6
+2062835,Guodong Long,43,6
+31370754,Fengwen Chen,43,6
+48934799,Chengqi Zhang,43,6
+144019071,Philip S. Yu,43,6
+32097919,Terrance Devries,44,2
+144639556,Graham W. Taylor,44,2
+1785654,Changhua Hu,45,4
+50561595,Jian-xun Zhang,45,4
+2134450193,Xiaosheng Si,45,4
+2111509432,Yong Yu,45,4
+3443627,Cheng Yang,46,6
+48128428,Jie Zhou,46,6
+49293587,Zhiyuan Liu,46,6
+2621696,Zhengyan Zhang,46,6
+1753344,Maosong Sun,46,6
+52297757,Ganqu Cui,46,6
+1701041,Michael Carbin,47,2
+25581960,Jonathan Frankle,47,2
+48987704,D. Hassabis,48,14
+1398898827,A. Grabska-Barwinska,48,14
+2106164,D. Kumaran,48,14
+144056327,J. Veness,48,14
+2755582,Guillaume Desjardins,48,14
+34505275,Tiago Ramalho,48,14
+34660073,John Quan,48,14
+2315504,R. Hadsell,48,14
+2388737,C. Clopath,48,14
+1996134,Razvan Pascanu,48,14
+3422052,Neil C. Rabinowitz,48,14
+2066516991,J. Kirkpatrick,48,14
+2228824,Andrei A. Rusu,48,14
+8181864,Kieran Milan,48,14
+145394689,D. Wagner,49,2
+2365115787,Nicholas Carlini,49,2
+145587209,N. Navab,50,3
+1877512,Fausto Milletarì,50,3
+145774206,Seyed-Ahmad Ahmadi,50,3
+1697397,P. Vandergheynst,51,3
+3422350,Michaël Defferrard,51,3
+2549032,X. Bresson,51,3

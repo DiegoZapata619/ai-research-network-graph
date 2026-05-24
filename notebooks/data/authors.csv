@@ -148,6 +148,55 @@
 1669767608,Lijia Chen
 47978704,Pingping Chen
 144264986,Zhijian Lin
+119462164,Shakked Noy
+123247135,Whitney Zhang
+46506460,Hanchen Wang
+2427076,Tianfan Fu
+93584228,Yuanqi Du
+2153575781,Wenhao Gao
+49454094,Kexin Huang
+2117941801,Ziming Liu
+89356020,P. Chandak
+1563693999,Shengchao Liu
+2226485816,Peter Van Katwyk
+48860334,Andreea Deac
+2047844,Anima Anandkumar
+46354410,K. Bergen
+2188778449,Carla P. Gomes
+2226475487,Shirley Ho
+143967473,Pushmeet Kohli
+1764249,Joan Lasenby
+2110264337,Tie-Yan Liu
+2613935,A. Manrai
+2226493959,D. Marks
+2378027,Bharath Ramsundar
+2159642226,Le Song
+1738536,Jimeng Sun
+2115854801,Jian Tang
+3444569,Petar Velickovic
+2228923747,Max Welling
+2359205623,Linfeng Zhang
+13027820,Connor W. Coley
+1865800402,Y. Bengio
+2095762,M. Zitnik
+1699771,P. Hitzler
+51931569,Md Kamruzzaman Sarker
+2117194781,Shan Wang
+2155602966,Fang Wang
+2332602539,Zhenzhou Zhu
+2264403157,Jingxuan Wang
+2368468789,T. Tran
+2265219069,Zhao Du
+150331642,Vikas Hassija
+3185174,V. Chamola
+2233658018,Atmesh Mahapatra
+2147282532,Abhinandan Singal
+73235682,Divyansh Goel
+5380819,Kaizhu Huang
+1752983,Simone Scardapane
+115566972,Indro Spinelli
+2188228655,Mufti Mahmud
+2199960729,Amir Hussain
 1720124,G. Karniadakis
 3439407,I. Kevrekidis
 2149373363,Lu Lu
@@ -215,7 +264,6 @@
 1723945,Vitaly Shmatikov
 48594758,Weihua Hu
 3410500,Matthias Fey
-2095762,M. Zitnik
 2047998,Yuxiao Dong
 40046694,Hongyu Ren
 2156641189,Bowen Liu
@@ -268,6 +316,30 @@
 144613163,Christian Hansen
 3646527,W. Newey
 145607066,J. Robins
+1579855258,O. Rainio
+5303884,J. Teuho
+2208742466,R. Klén
+2856207,T. Hengl
+7549589,Jorge Mendes de Jesus
+145253407,G. Heuvelink
+9583743,Maria Ruiperez González
+30504500,M. Kilibarda
+9030720,Aleksandar Blagotić
+2228185935,Shangguan Wei
+3376186,Marvin N. Wright
+3018223,X. Geng
+1402912902,B. Bauer-Marschallinger
+145669099,M. Guevara
+145632581,R. Vargas
+145028966,R. MacMillan
+49399380,N. Batjes
+100653750,J. Leenaars
+32830771,E. Ribeiro
+2924968,Ichsani Wheeler
+2146245,S. Mantel
+4953836,B. Kempen
+1694621,Michael I. Jordan
+2066277988,T. Mitchell
 3407277,Adam Paszke
 39793298,Sam Gross
 1403239967,Francisco Massa
@@ -331,7 +403,6 @@
 144085811,C. I. Sánchez
 1811529,A. Esteva
 2364487,Alexandre Robicquet
-2378027,Bharath Ramsundar
 145712106,Volodymyr Kuleshov
 2446263,M. DePristo
 2055632320,Katherine Chou
@@ -390,6 +461,45 @@
 2057376568,Philip Nelson
 5791678,J. Mega
 47191829,D. Webster
+2117940996,Ziwei Liu
+47571885,Ping Luo
+31843833,Xiaogang Wang
+50295995,Xiaoou Tang
+144329939,C. Qi
+144914140,Hao Su
+2216377,Kaichun Mo
+51352814,L. Guibas
+2343609447,Xingbang Hao
+8273966,Guigang Zhang
+2118869556,Shang Ma
+2019153,P. Battaglia
+2158860,Jessica B. Hamrick
+2603033,V. Bapst
+1398105826,Alvaro Sanchez-Gonzalez
+3133079,V. Zambaldi
+145478807,Mateusz Malinowski
+2844530,Andrea Tacchetti
+143724694,David Raposo
+35030998,Adam Santoro
+1854385,Çaglar Gülçehre
+2107148568,H. F. Song
+5055381,A. Ballard
+2058362,J. Gilmer
+35188630,George E. Dahl
+40348417,Ashish Vaswani
+145254624,Kelsey R. Allen
+36942233,Charlie Nash
+2066201331,Victoria Langston
+1745899,Chris Dyer
+2801204,N. Heess
+1688276,Daan Wierstra
+46378362,M. Botvinick
+47002813,Yujia Li
+1996134,Razvan Pascanu
+151505981,Chiyuan Zhang
+1751569,Samy Bengio
+1775622,Moritz Hardt
+9229182,B. Recht
 2235318806,Douglas Nychkatl
 2420590721,Slephen Ellner
 2235318808,Daniel Mccaftrey
@@ -453,8 +563,9 @@
 2118439896,Kaifeng Chen
 50988143,Pong Eksombatchai
 49437682,William L. Hamilton
+2365115787,Nicholas Carlini
+145394689,D. Wagner
 2066516991,J. Kirkpatrick
-1996134,Razvan Pascanu
 3422052,Neil C. Rabinowitz
 144056327,J. Veness
 2755582,Guillaume Desjardins
@@ -467,14 +578,45 @@
 2388737,C. Clopath
 2106164,D. Kumaran
 2315504,R. Hadsell
-2365115787,Nicholas Carlini
-145394689,D. Wagner
 1846258,Noam Shazeer
 1861312,Azalia Mirhoseini
 2275364713,Krzysztof Maziarz
-1877512,Fausto Milletarì
-145587209,N. Navab
-145774206,Seyed-Ahmad Ahmadi
 3422350,Michaël Defferrard
 2549032,X. Bresson
 1697397,P. Vandergheynst
+1877512,Fausto Milletarì
+145587209,N. Navab
+145774206,Seyed-Ahmad Ahmadi
+2109963918,Zewen Li
+153035664,Fan Liu
+2124888052,Wenjie Yang
+1612537626,Shouheng Peng
+2151548704,Jun Zhou
+2554362,R. Yamashita
+3421183,M. Nishio
+152271968,R. Do
+2459558,K. Togashi
+145824029,David Silver
+1885349,Aja Huang
+2772217,Chris J. Maddison
+35099444,A. Guez
+2175946,L. Sifre
+47568983,George van den Driessche
+4337102,Julian Schrittwieser
+2460849,Ioannis Antonoglou
+2749418,Vedavyas Panneershelvam
+1975889,Marc Lanctot
+48373216,S. Dieleman
+2401609,Dominik Grewe
+4111313,John Nham
+2583391,Nal Kalchbrenner
+2542999,T. Lillicrap
+40662181,Madeleine Leach
+2645384,K. Kavukcuoglu
+1686971,T. Graepel
+143887493,Mohammad Rastegari
+2004053,Vicente Ordonez
+40497777,J. Redmon
+143787583,Ali Farhadi
+1891828,Leon A. Gatys
+1746183,Alexander S. Ecker

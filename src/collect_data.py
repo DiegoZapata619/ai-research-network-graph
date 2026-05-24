@@ -24,7 +24,7 @@ def create_data_dir():
     os.makedirs(DATA_DIR, exist_ok=True)
 
 #Consulta de artículos
-def fetch_papers(query, limit=100):
+def fetch_papers(query, limit=20):
     params = {
         "query": query,
         "limit": limit,
@@ -50,7 +50,7 @@ def fetch_papers(query, limit=100):
 def save_raw_data():
     all_papers = []
     for query in QUERIES:
-        papers = fetch_papers(query,limit=100)
+        papers = fetch_papers(query,limit=20)
         for paper in papers:
             paper["query_used"] = query
             all_papers.append(paper)

@@ -89,28 +89,52 @@ def analyze_components(G):
     component_sizes = sorted ([len(c) for c in components], reverse=True)
     print(f"Tamaño de las componentes conectadas: {component_sizes}")
 
+#Función para obtener el camino más corto entre dos nodos específicos
+def analyze_shortest_path(G, source, target):
+    try:
+        shortest_path = nx.shortest_path(G, source=source, target=target)
+        path_length = nx.shortest_path_length(G,source=source, target=target)
+        print (f"Camino más corto entre {get_author_name(G, source)} y {get_author_name(G, target)}: {shortest_path} (longitud: {path_length})")
+        print ("Ruta")
+        for node in shortest_path:
+            print(f"- {get_author_name(G, node)} (ID: {node}) ->")
+    
+    except nx.NetworkXNoPath:
+        print (f"No hay camino entre {get_author_name(G, source)} y {get_author_name(G, target)}."
+               "Intenta con otros nodos.")
+        
+
+#Función para analizar los caminos más cortos dentro de la componente más grande del grafo
 def analyze_shortest_paths(G):
     components = list(nx.connected_components(G))
     if not components:
         print("El grafo no tiene componentes conectados.")
         return pd.DataFrame()
+    #Obtenemos el componente más grande del grafo
     largest_component = max(components, key=len)
     subgraph = G.subgraph(largest_component)
-    if subgraph.number_of_nodes() < 2:
-        print("El componente más grande tiene menos de 2 nodos, no se pueden calcular caminos.")
-        return
-    nodes = list(subgraph.nodes())
-    source = nodes[0]
-    target= nodes[-1]
-    try:
-        shortest_path = nx.shortest_path(subgraph, source=source, target=target)
-        path_length = nx.shortest_path_length(subgraph, source=source, target=target)
-        print (f"Camino más corto de la componente más grande: {shortest_path} (longitud: {path_length})")
-        print ("Ruta")
-        for node in shortest_path:
-            print(f"- {get_author_name(G, node)} (ID: {node}) ->")
-    except nx.NetworkXNoPath:
-        print("No hay camino entre los nodos seleccionados en la componente más grande.")
+    print (f"Componente más grande: {len(largest_component)} nodos")
+    #Para estas pruebas, se seleccionan los 5 autores más importantes de la componente más grande utilizando betweennes_centrality
+    selected_authors  = nx.betweenness_centrality(subgraph, weight="distance")
+    #Se ordenan los autores por su centralidad y se seleccionan los 5 con mayor valor
+    #El slicing [:5] se utiliza para obtener solo los 5 autores más importantes
+    top5 = sorted(selected_authors, key=selected_authors.get, reverse=True)[:5]
+    print ("Camino mínimo entre los nodos más importantes de la componente más grande")
+    for i in range(len(top5)):
+            for j in range(i + 1, len(top5)):
+                source = top5[i]
+                target = top5[j]
+                try:
+                    #Calculamos los caminos más cortos, la distancia de cada camino y los nombres para mejorar el formato de impresión y no usar sus ID
+                    shortest_path = nx.shortest_path(subgraph, source=source, target=target,weight="distance")
+                    path_length = nx.shortest_path_length(subgraph, source=source, target=target, weight="distance")
+                    path_names = [get_author_name(G, node) for node in shortest_path]
+                    print(f"Camino más corto entre {get_author_name(G, source)} y {get_author_name(G, target)}")
+                    print(f"Distancia ponderada: {path_length:.4f}")
+                    print(f"Pasos: {len(shortest_path) - 1}")
+                    print("Ruta: " + " → ".join(path_names) + "\n")
+                except nx.NetworkXNoPath:
+                    print(f"No hay camino entre {get_author_name(G, source)} y {get_author_name(G, target)} en la componente más grande.")
 
 def analyze_communities(G):
     if G.number_of_edges() == 0:
@@ -143,8 +167,6 @@ def export_gexf(G, filepath):
         data.pop("target_name", None)
     nx.write_gexf(G_export, filepath)
     
-
-
 def visualize_graph(G):
     plt.figure(figsize=(12, 12))
     pos = nx.spring_layout(G, seed=42)
@@ -173,7 +195,6 @@ def visualize_graph(G):
     plt.savefig(FULL_GRAPH_IMAGE, format="PNG")
     plt.close()
     
-
 def visualize_important_nodes(G, df_centrality, top_n=20):
     top_degree = set (df_centrality.nlargest(top_n, "degree_centrality")["authorId"])
     top_betweenness = set (df_centrality.nlargest(top_n, "betweenness_centrality")["authorId"])
