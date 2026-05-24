@@ -23,8 +23,8 @@ QUERIES = [
 def create_data_dir():
     os.makedirs(DATA_DIR, exist_ok=True)
 
-#Consulta de artículos
-def fetch_papers(query, limit=20):
+# Función para consultar la API de Semantic Scholar con una consulta específica y un límite de resultados. 
+def fetch_papers(query, limit=15):
     params = {
         "query": query,
         "limit": limit,
@@ -50,7 +50,7 @@ def fetch_papers(query, limit=20):
 def save_raw_data():
     all_papers = []
     for query in QUERIES:
-        papers = fetch_papers(query,limit=20)
+        papers = fetch_papers(query,limit=15)
         for paper in papers:
             paper["query_used"] = query
             all_papers.append(paper)

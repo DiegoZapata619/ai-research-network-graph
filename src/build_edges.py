@@ -6,7 +6,7 @@ from collections import defaultdict
 
 
 DATA_DIR = "data"
-CLEAN_PAPERS_FILE = os.path.join(DATA_DIR, "processed_papers.csv")
+PROCESSED_PAPER_FILE = os.path.join(DATA_DIR, "processed_papers.csv")
 AUTHORS_FILE = os.path.join(DATA_DIR, "authors.csv")
 EDGES_FILE = os.path.join(DATA_DIR, "edges.csv")
 
@@ -26,7 +26,7 @@ def parse_authors(authors_text):
 
 
 def build_edges():
-    df_papers = pd.read_csv(CLEAN_PAPERS_FILE)
+    df_papers = pd.read_csv(PROCESSED_PAPER_FILE)
     df_authors = pd.read_csv(AUTHORS_FILE)
 
     # Autores permitidos: son los autores oficiales del grafo.
