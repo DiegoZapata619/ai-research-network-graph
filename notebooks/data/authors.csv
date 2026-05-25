@@ -421,10 +421,10 @@
 1748808,Xindong Wu
 1764301,A. Kamilaris
 1398263014,F. Prenafeta-Boldú
+1744700,Zoubin Ghahramani
 1688882,Yann LeCun
 1751762,Yoshua Bengio
 1695689,Geoffrey E. Hinton
-1744700,Zoubin Ghahramani
 2061550,Heng-Tze Cheng
 40338695,L. Koc
 2066076307,Jeremiah Harmsen
@@ -465,13 +465,13 @@
 47571885,Ping Luo
 31843833,Xiaogang Wang
 50295995,Xiaoou Tang
+2343609447,Xingbang Hao
+8273966,Guigang Zhang
+2118869556,Shang Ma
 144329939,C. Qi
 144914140,Hao Su
 2216377,Kaichun Mo
 51352814,L. Guibas
-2343609447,Xingbang Hao
-8273966,Guigang Zhang
-2118869556,Shang Ma
 2019153,P. Battaglia
 2158860,Jessica B. Hamrick
 2603033,V. Bapst
@@ -513,6 +513,10 @@
 2827616,Quoc V. Le
 3360632,Keyulu Xu
 2594093,S. Jegelka
+144993411,Chuan Guo
+10804137,Geoff Pleiss
+2117103358,Yu Sun
+7446832,Kilian Q. Weinberger
 144727050,Andrew G. Howard
 2717876,Menglong Zhu
 2741985,Dmitry Kalenichenko
@@ -520,10 +524,6 @@
 47447630,Tobias Weyand
 2612392,M. Andreetto
 2595180,Hartwig Adam
-144993411,Chuan Guo
-10804137,Geoff Pleiss
-2117103358,Yu Sun
-7446832,Kilian Q. Weinberger
 51034104,Arthur Jacot
 50810629,Franck Gabriel
 100474520,Clément Hongler
@@ -563,8 +563,6 @@
 2118439896,Kaifeng Chen
 50988143,Pong Eksombatchai
 49437682,William L. Hamilton
-2365115787,Nicholas Carlini
-145394689,D. Wagner
 2066516991,J. Kirkpatrick
 3422052,Neil C. Rabinowitz
 144056327,J. Veness
@@ -578,6 +576,8 @@
 2388737,C. Clopath
 2106164,D. Kumaran
 2315504,R. Hadsell
+2365115787,Nicholas Carlini
+145394689,D. Wagner
 1846258,Noam Shazeer
 1861312,Azalia Mirhoseini
 2275364713,Krzysztof Maziarz

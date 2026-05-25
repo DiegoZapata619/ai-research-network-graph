@@ -3495,10 +3495,10 @@
 1748808,33698309,1,1.0,Xindong Wu,Zhong-Qiu Zhao
 1748808,51132438,1,1.0,Xindong Wu,Shou-tao Xu
 1398263014,1764301,1,1.0,F. Prenafeta-Boldú,A. Kamilaris
+1744700,2681954,1,1.0,Zoubin Ghahramani,Y. Gal
 1688882,1751762,1,1.0,Yann LeCun,Yoshua Bengio
 1688882,1695689,1,1.0,Yann LeCun,Geoffrey E. Hinton
 1695689,1751762,1,1.0,Geoffrey E. Hinton,Yoshua Bengio
-1744700,2681954,1,1.0,Zoubin Ghahramani,Y. Gal
 2061550,40338695,1,1.0,Heng-Tze Cheng,L. Koc
 2061550,2066076307,1,1.0,Heng-Tze Cheng,Jeremiah Harmsen
 2061550,3296031,1,1.0,Heng-Tze Cheng,T. Shaked
@@ -3751,15 +3751,15 @@
 31843833,47571885,1,1.0,Xiaogang Wang,Ping Luo
 47571885,50295995,1,1.0,Ping Luo,Xiaoou Tang
 31843833,50295995,1,1.0,Xiaogang Wang,Xiaoou Tang
+2343609447,8273966,1,1.0,Xingbang Hao,Guigang Zhang
+2118869556,2343609447,1,1.0,Shang Ma,Xingbang Hao
+2118869556,8273966,1,1.0,Shang Ma,Guigang Zhang
 144329939,144914140,1,1.0,C. Qi,Hao Su
 144329939,2216377,1,1.0,C. Qi,Kaichun Mo
 144329939,51352814,1,1.0,C. Qi,L. Guibas
 144914140,2216377,1,1.0,Hao Su,Kaichun Mo
 144914140,51352814,1,1.0,Hao Su,L. Guibas
 2216377,51352814,1,1.0,Kaichun Mo,L. Guibas
-2343609447,8273966,1,1.0,Xingbang Hao,Guigang Zhang
-2118869556,2343609447,1,1.0,Shang Ma,Xingbang Hao
-2118869556,8273966,1,1.0,Shang Ma,Guigang Zhang
 2019153,2158860,1,1.0,P. Battaglia,Jessica B. Hamrick
 2019153,2603033,1,1.0,P. Battaglia,V. Bapst
 1398105826,2019153,1,1.0,Alvaro Sanchez-Gonzalez,P. Battaglia
@@ -4137,6 +4137,12 @@
 2594093,3360632,1,1.0,S. Jegelka,Keyulu Xu
 2594093,48594758,1,1.0,S. Jegelka,Weihua Hu
 1702139,2594093,1,1.0,J. Leskovec,S. Jegelka
+10804137,144993411,1,1.0,Geoff Pleiss,Chuan Guo
+144993411,2117103358,1,1.0,Chuan Guo,Yu Sun
+144993411,7446832,1,1.0,Chuan Guo,Kilian Q. Weinberger
+10804137,2117103358,1,1.0,Geoff Pleiss,Yu Sun
+10804137,7446832,1,1.0,Geoff Pleiss,Kilian Q. Weinberger
+2117103358,7446832,1,1.0,Yu Sun,Kilian Q. Weinberger
 144727050,2717876,1,1.0,Andrew G. Howard,Menglong Zhu
 144727050,2741985,1,1.0,Andrew G. Howard,Dmitry Kalenichenko
 144727050,2108301072,1,1.0,Andrew G. Howard,Weijun Wang
@@ -4158,12 +4164,6 @@
 2612392,47447630,1,1.0,M. Andreetto,Tobias Weyand
 2595180,47447630,1,1.0,Hartwig Adam,Tobias Weyand
 2595180,2612392,1,1.0,Hartwig Adam,M. Andreetto
-10804137,144993411,1,1.0,Geoff Pleiss,Chuan Guo
-144993411,2117103358,1,1.0,Chuan Guo,Yu Sun
-144993411,7446832,1,1.0,Chuan Guo,Kilian Q. Weinberger
-10804137,2117103358,1,1.0,Geoff Pleiss,Yu Sun
-10804137,7446832,1,1.0,Geoff Pleiss,Kilian Q. Weinberger
-2117103358,7446832,1,1.0,Yu Sun,Kilian Q. Weinberger
 50810629,51034104,1,1.0,Franck Gabriel,Arthur Jacot
 100474520,51034104,1,1.0,Clément Hongler,Arthur Jacot
 100474520,50810629,1,1.0,Clément Hongler,Franck Gabriel
@@ -4255,7 +4255,6 @@
 49437682,50988143,1,1.0,William L. Hamilton,Pong Eksombatchai
 1702139,50988143,1,1.0,J. Leskovec,Pong Eksombatchai
 1702139,49437682,1,1.0,J. Leskovec,William L. Hamilton
-145394689,2365115787,1,1.0,D. Wagner,Nicholas Carlini
 1996134,2066516991,1,1.0,Razvan Pascanu,J. Kirkpatrick
 2066516991,3422052,1,1.0,J. Kirkpatrick,Neil C. Rabinowitz
 144056327,2066516991,1,1.0,J. Veness,J. Kirkpatrick
@@ -4347,6 +4346,7 @@
 2106164,2388737,1,1.0,D. Kumaran,C. Clopath
 2315504,2388737,1,1.0,R. Hadsell,C. Clopath
 2106164,2315504,1,1.0,D. Kumaran,R. Hadsell
+145394689,2365115787,1,1.0,D. Wagner,Nicholas Carlini
 1846258,1861312,1,1.0,Noam Shazeer,Azalia Mirhoseini
 1846258,2275364713,1,1.0,Noam Shazeer,Krzysztof Maziarz
 1846258,36347083,1,1.0,Noam Shazeer,Andy Davis
